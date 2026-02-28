@@ -22,6 +22,18 @@
 
   --radius-base: 0.5rem;
 
+  /* Custom Colors */
+
+  --color-primary-blue: #008AD2;
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+  --color-yellow: #FCB712;
+  --color-orange: #F37020;
+  --color-red: #CD004D;
+  --color-purple: #6460AC;
+  --color-green: #0CB14B;
+  --color-light-gray: #F7F7F7;
+
   /*
   This does not show in the theme editor
   but is used to override the defaults based on the user's selection for radius-base
