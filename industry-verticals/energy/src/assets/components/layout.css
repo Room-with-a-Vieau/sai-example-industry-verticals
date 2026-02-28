@@ -107,3 +107,42 @@
 .position-center select {
   text-align-last: center !important;
 }
+
+
+/* Custom Background Colors */
+
+
+
+.comcast-blue-background {
+  background-color: #000A73;
+  @apply border-accent;
+}
+
+.dark-blue-background {
+  background-color: #00074B;
+  @apply border-accent;
+}
+
+
+.yellow-background {
+  background-color: #FCB712;
+}
+
+.orange-background {
+  background-color: #F37020;
+  @apply border-accent;
+}
+
+.red-background {
+  background-color: #CD004D;
+}
+
+.purple-background {
+  background-color: #6460AC;
+  @apply border-accent;
+}
+
+.green-background {
+  background-color: #0CB14B;
+}
+
