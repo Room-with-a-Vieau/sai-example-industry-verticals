@@ -115,34 +115,65 @@
 
 .comcast-blue-background {
   background-color: #000A73;
-  @apply border-accent;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 .dark-blue-background {
   background-color: #00074B;
-  @apply border-accent;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 
 .yellow-background {
   background-color: #FCB712;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 .orange-background {
   background-color: #F37020;
-  @apply border-accent;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 .red-background {
   background-color: #CD004D;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 .purple-background {
   background-color: #6460AC;
-  @apply border-accent;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
 .green-background {
   background-color: #0CB14B;
+  @apply text-background;
+
+  * {
+    @apply text-inherit;
+  }
 }
 
