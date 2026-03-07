@@ -16,6 +16,7 @@ import * as SearchResults from 'src/components/search-results/SearchResults';
 import * as RowSplitter from 'src/components/row-splitter/RowSplitter';
 import * as RichText from 'src/components/rich-text/RichText';
 import * as Reviews from 'src/components/reviews/Reviews';
+import * as PromoCTA from 'src/components/promo/PromoCTA';
 import * as Promo from 'src/components/promo/Promo';
 import * as ProductListing from 'src/components/product-listing/ProductListing';
 import * as ProductDetails from 'src/components/product-details/ProductDetails';
@@ -70,6 +71,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['RowSplitter', { ...RowSplitter }],
   ['RichText', { ...RichText }],
   ['Reviews', { ...Reviews }],
+  ['PromoCTA', { ...PromoCTA }],
   ['Promo', { ...Promo }],
   ['ProductListing', { ...ProductListing }],
   ['ProductDetails', { ...ProductDetails }],
