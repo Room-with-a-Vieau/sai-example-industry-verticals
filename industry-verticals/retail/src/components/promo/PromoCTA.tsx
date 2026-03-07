@@ -97,7 +97,7 @@ export const Default = (props: PromoProps): JSX.Element => {
   return (
     <section className={`${props.params.styles} py-20`} id={id ? id : undefined}>
       <div className="container grid grid-cols-1 place-items-center gap-10 lg:grid-cols-12">
-        <div className={`${isPromoReversed} col-span-full lg:col-span-6 relative w-full`}>
+        <div className={`${isPromoReversed} relative col-span-full w-full lg:col-span-6`}>
           <SingleImageContainer
             PromoIcon={props.fields.PromoIcon}
             withShapes={withShapes}
@@ -123,10 +123,7 @@ export const WithFullImage = (props: PromoProps): JSX.Element => {
     <section className={`${props.params.styles} py-20`} id={id ? id : undefined}>
       <div className={`container flex ${isPromoReversed}`}>
         <div className="relative my-10 aspect-[1232/608] overflow-hidden rounded-2xl">
-          <ContentSdkImage
-            field={props.fields.PromoIcon2}
-            className="h-full w-full object-cover"
-          />
+          <ContentSdkImage field={props.fields.PromoIcon2} className="h-full w-full object-cover" />
         </div>
 
         <div className="space-y-5">
