@@ -132,29 +132,6 @@ export const Default = ({ params, fields, rendering }: HeroBannerProps) => {
   );
 };
 
-export const NoText = ({ params, fields }: HeroBannerProps) => {
-  const { page } = useSitecore();
-  const { styles, RenderingIdentifier: id } = params;
-
-  if (!fields) {
-    return page.mode.isEditing ? (
-      <div className={`component hero-banner ${styles}`} id={id}>
-        [HERO BANNER] component
-      </div>
-    ) : (
-      <></>
-    );
-  }
-
-  return (
-    <div className={`component hero-banner ${styles}`} id={id}>
-      <Link field={fields.CtaLink}>
-        <ContentSdkImage field={fields.Image} className="w-full object-cover" priority />
-      </Link>
-    </div>
-  );
-};
-
 export const TopContent = ({ params, fields, rendering }: HeroBannerProps) => {
   const styles = params.styles || '';
   const hideAccentLine = styles.includes(CommonStyles.HideAccentLine);
