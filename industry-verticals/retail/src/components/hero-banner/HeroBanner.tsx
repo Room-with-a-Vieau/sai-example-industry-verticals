@@ -139,7 +139,7 @@ export const NoText = ({ params, fields }: HeroBannerProps) => {
   if (!fields) {
     return page.mode.isEditing ? (
       <div className={`component hero-banner ${styles}`} id={id}>
-        [HERO BANNER]
+        [HERO BANNER] component
       </div>
     ) : (
       <></>
@@ -151,7 +151,7 @@ export const NoText = ({ params, fields }: HeroBannerProps) => {
       <Link field={fields.CtaLink}>
         <ContentSdkImage field={fields.Image} className="w-full object-cover" priority />
       </Link>
-    </div>    
+    </div>
   );
 };
 
