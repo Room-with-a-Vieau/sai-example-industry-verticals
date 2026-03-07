@@ -85,7 +85,6 @@ export const SingleImageContainer = ({
   );
 };
 
-
 export const Default = (props: PromoProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
   const isPromoReversed = !props?.params?.styles?.includes(LayoutStyles.Reversed)
