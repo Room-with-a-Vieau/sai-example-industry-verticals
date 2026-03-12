@@ -1,0 +1,43 @@
+﻿---
+ID: "22bf82fd-7259-4f27-b8e7-4bb1784e0c22"
+Parent: "3eed1c66-2d16-475f-a491-0234b95248d9"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/souto-foods/Home/Careers"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{544BE7D2-DFBD-4B49-9FC2-944BDF4F1EC5}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{52BAFD92-C0B5-42EE-BDC6-C0DC538DD45C}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "eb02e170-e58f-46c1-805c-4076d36e0615"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T161317Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Careers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9ba7fee-e9bf-431d-8c1d-c35bf6dc0204"
+    - ID: "adeeaa1d-7479-49cf-b855-c67e641c6e0d"
+      Hint: Content
+      Value: Join the Souto Foods family and be part of a team that is passionate about food, community, and excellence. We are always looking for motivated, talented individuals who share our commitment to delivering the best products and service to our customers. We offer competitive compensation, a collaborative work environment, and opportunities for growth and advancement. Whether you are interested in sales, logistics, operations, or administration, there may be a place for you at Souto Foods. Explore our current openings and take the first step toward a rewarding career with us.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: Careers
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T170549Z

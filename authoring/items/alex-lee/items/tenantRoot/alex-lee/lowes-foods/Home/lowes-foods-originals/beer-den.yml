@@ -1,0 +1,41 @@
+﻿---
+ID: "d1ffac77-8267-47c0-bf4a-a018d0611a85"
+Parent: "f62c1880-3da4-447f-854d-259552f9248a"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/lowes-foods/Home/lowes-foods-originals/beer-den"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{62116ABB-DEBC-4693-9B17-CD9180C06D17}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "3193acd6-04bf-4f56-9711-3fc33249c69d"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: The Beer Den
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T012054Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "beer-den"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20caf60a-a76d-48d3-8d25-eb623c13dfdd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: "beer-den"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T012802Z

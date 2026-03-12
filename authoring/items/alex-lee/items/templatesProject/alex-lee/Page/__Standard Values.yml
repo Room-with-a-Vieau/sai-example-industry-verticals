@@ -1,0 +1,43 @@
+﻿---
+ID: "c80eac16-9d3e-48b3-9172-e6efb407626d"
+Parent: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/templates/Project/alex-lee/Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {CA66B1DB-04E4-46D4-9F1C-EC7EF6D31C62}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "7bd4a330-b27d-47ba-a5a9-e3c3ab857368"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T001605Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9544fcf-3f15-4dd0-b462-9b6739e2d447"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: $name
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T001614Z

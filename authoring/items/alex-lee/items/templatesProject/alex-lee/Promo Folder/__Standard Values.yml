@@ -1,0 +1,36 @@
+﻿---
+ID: "b78c530d-ee90-42e7-94c1-3f79b6191da4"
+Parent: "91211026-4045-4ab7-863b-f233e32ea03a"
+Template: "91211026-4045-4ab7-863b-f233e32ea03a"
+Path: "/sitecore/templates/Project/alex-lee/Promo Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4C872689-FA31-4279-8F07-9A6AF19AA329}
+    {91211026-4045-4AB7-863B-F233E32EA03A}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "b625aa66-70ca-42c3-bb20-aa46aa1cbe0a"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53e5e60-24f9-4431-b5bf-b673179e6fad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260307T030039Z

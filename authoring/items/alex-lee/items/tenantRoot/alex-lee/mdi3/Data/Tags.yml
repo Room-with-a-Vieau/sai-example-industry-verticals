@@ -1,0 +1,31 @@
+﻿---
+ID: "445d5af0-2dd2-4bc1-a7fc-7ffe76ba733b"
+Parent: "5dc6309c-adac-41a5-8eac-3295241f7f82"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/alex-lee/mdi3/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260312T173419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "561690c3-4192-4db0-8844-645f163c8c62"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260312T173419Z

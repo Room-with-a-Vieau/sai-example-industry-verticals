@@ -1,0 +1,43 @@
+﻿---
+ID: "637bb964-0c49-425e-abc6-dafd64ed6f6e"
+Parent: "717a84e7-5b9d-43e8-a8cd-5068dfa2fff0"
+Template: "ac18eef2-f134-4985-8b74-6ad16cca6577"
+Path: "/sitecore/content/alex-lee/lowes-foods/Home/Data/LF_Home_Hero_Banner"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
+      Hint: Description
+      Value: <p>AND MEET YOUR NEW MVP</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T041256Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "84a164f4-8b3e-45e1-a4ca-fa4c0de72666"
+      Hint: SecondaryCtaLink
+      Value: "/shop-online"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "270066fb-9abe-433b-9ad5-3b1f3740ae8b"
+    - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
+      Hint: Title
+      Value: Score Big on Flavor
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T041256Z
+    - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
+      Hint: CtaLink
+      Value: "/savings-and-rewards/fresh-rewards"

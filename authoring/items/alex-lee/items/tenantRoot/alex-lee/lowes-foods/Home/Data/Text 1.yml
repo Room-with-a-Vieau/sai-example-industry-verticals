@@ -1,0 +1,38 @@
+﻿---
+ID: "02c5dd66-08a5-482f-8442-205624bd4f5a"
+Parent: "717a84e7-5b9d-43e8-a8cd-5068dfa2fff0"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/alex-lee/lowes-foods/Home/Data/Text 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T153534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="font-family:'Arial', sans-serif;max-width:640px;"><h2 style="color:#1a1a1a;font-family:'Arial Black', Arial, sans-serif;font-size:1.75rem;letter-spacing:0.05em;line-height:1.2;margin:0 0 12px;text-transform:uppercase;"><strong>Fresh Rewards</strong></h2><p>Enjoy a simpler, more rewarding way to shop—online or in the app—and start saving today.</p><p style="text-align:center;"><a href="#">SIGN UP</a></p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc7f89c3-c2dd-4631-a71f-211b76dc0431"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T154421Z

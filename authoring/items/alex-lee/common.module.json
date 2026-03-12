@@ -1,0 +1,43 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.AlexLee",
+  "items": {
+    "includes": [
+      {
+        "name": "module",
+        "path": "/sitecore/system/settings/Project/alex-lee",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templatesProject",
+        "path": "/sitecore/templates/Project/alex-lee",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branchesProject",
+        "path": "/sitecore/templates/Branches/Project/alex-lee",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectMediaFolders",
+        "path": "/sitecore/Media Library/Project/alex-lee"
+      },
+      {
+        "name": "projectRenderings",
+        "path": "/sitecore/Layout/Renderings/Project/alex-lee",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "projectPlaceholderSettings",
+        "path": "/sitecore/Layout/Placeholder Settings/Project/alex-lee",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tenantRoot",
+        "path": "/sitecore/content/alex-lee",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

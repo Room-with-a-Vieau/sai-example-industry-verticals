@@ -1,0 +1,41 @@
+﻿---
+ID: "772befc3-f0f2-4d21-aee8-a9dce190e21a"
+Parent: "328ea849-0085-4fb0-a7f4-3a6282d504e7"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/lowes-foods/Home/savings-and-rewards/fresh-rewards"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{66C49999-F94F-4942-9C8C-992DA52D5954}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "a13237b5-0d54-49ea-81f4-4ea94bfcf2d3"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fresh Rewards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T012018Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "fresh-rewards"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cac527bc-5f32-4e7a-ae9c-f1578cd57671"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: "fresh-rewards"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T012737Z

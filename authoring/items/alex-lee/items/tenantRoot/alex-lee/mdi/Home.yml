@@ -1,0 +1,76 @@
+﻿---
+ID: "9a45ba53-e666-4a04-99fc-8d5101cc2d67"
+Parent: "592de4c8-dcbc-468b-8c8b-d083cb32525d"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/mdi/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{15DFCB2A-F4BD-4088-977D-5EFBDE9D9890}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4bf726bd-bbfe-401e-adb6-74021df7af78"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4992C1D9-79A8-4A05-8C47-E90511444D83}"
+              p:before="*"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BF207D485-F62E-4FC3-917A-E2D87BCCF705%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{B1586C4F-461E-4EEB-8F59-85508D744C39}"
+              p:after="*[1=2]"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B4AFC39DD-39BB-4C26-BBE3-33524A57D755%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T001802Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: mdi
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ed5239e-e8a9-41b9-bb07-5bdc63401cec"
+    - ID: "adeeaa1d-7479-49cf-b855-c67e641c6e0d"
+      Hint: Content
+      Value: "<p>For 90 years, we have supported independent grocers with essential expertise, infrastructure and scale, so that they can thrive and grow.</p><p>Who is MDI? We're a time-tested, success-driven wholesale grocery distributor that services retailers across the East Coast. Let's partner up, roll up our sleeves, and get the job done.</p><h2>Big League Support For The Hometown Team</h2><p>You created your business, attracted your market, and are an integral part of your community. We will help you uncover compelling ways to build on your strengths, maximize your sales, and streamline your operations. MDI provides the scale and infrastructure you need to compete against big chains. We have the proven expertise to help you adapt to an ever-changing market, so you can focus on what matters most: serving your community.</p><h2>What We Offer</h2><p>We deliver over 40,000 products across multiple categories and price points. Our extensive in-house range of products includes organic and sought-after specialty items, profitable high-end offerings, local treasures and a wide range of authentic ethnic products.</p><p>From Ecommerce to Retail Operations, we get you moving in the right direction so that you don't just keep up, but keep ahead.</p><p>MDI supplies full logistics support with a vast array of warehousing and distribution services. We specialize in assisting manufacturers and suppliers with the shipment of products to retail using the latest technology. As leaders in high-quality food safe technology and monitoring, you get longer shelf life, fresh to the table food, an iron-clad reputation and happy returning customers.</p><h2>How We Compare</h2><p><strong>Service:</strong> We are committed to providing unrivaled service and comprehensive support to help your business thrive.</p><p><strong>Forward-Thinking:</strong> We co-create with you for your future. We dare to think differently. And we never settle for business as usual.</p><p><strong>Integrity:</strong> Our relationships are built on trust and respect. We know we provide a service that is critical to communities, and we take our responsibility seriously. That is why our word is our bond and we strive to earn your business every day.</p><p><strong>Flexibility:</strong> Being independently-owned with in-house products and services helps us to help you stay in control and adapt to a changing environment.</p><p><strong>Transparency:</strong> We offer a clear and simple fee structure with no hidden costs.</p><p><strong>Private Brands:</strong> We offer a complete private brands program to provide your customers the variety and value they want.</p><p><strong>Total Latino Solution:</strong> We offer a comprehensive program for authentic Latino offerings.</p><p>As you evolve, your business does, too. We're here to give you the continual support you need for unhindered, effortless growth.</p>"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: Thrive and Grow in a Changing World
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260306T223956Z

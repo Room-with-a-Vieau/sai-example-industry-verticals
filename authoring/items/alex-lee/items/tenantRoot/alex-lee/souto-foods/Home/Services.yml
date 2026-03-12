@@ -1,0 +1,37 @@
+﻿---
+ID: "3a5281aa-4778-4722-bc97-462fbe3f1521"
+Parent: "3eed1c66-2d16-475f-a491-0234b95248d9"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/souto-foods/Home/Services"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B01ECB85-4A93-4B64-952F-5CBB8BE03F25}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T161308Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Services
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a9631f1-4c46-4f95-9974-0e2cd4b68241"
+    - ID: "adeeaa1d-7479-49cf-b855-c67e641c6e0d"
+      Hint: Content
+      Value: "Souto Foods goes beyond product delivery to provide a full suite of services that help your business thrive. We offer category management to optimize your Hispanic food section, in-depth market insights to help you understand your shoppers, and dedicated sales support to grow your revenue. Our team of experts collaborates with you to build efficient operations, train your staff, and develop strategies that build long-term shopper loyalty. From store-level execution to strategic planning, Souto Foods is your end-to-end partner for success in the Hispanic retail market."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: Services
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T161349Z

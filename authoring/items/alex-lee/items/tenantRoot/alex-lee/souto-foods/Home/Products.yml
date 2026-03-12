@@ -1,0 +1,37 @@
+﻿---
+ID: "f926e22a-f8e6-4108-87d6-e10905e687f7"
+Parent: "3eed1c66-2d16-475f-a491-0234b95248d9"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/souto-foods/Home/Products"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9322C9F6-545A-4776-BB08-BF0D1BF2BFFB}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T161258Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73eb13d7-4139-4930-a0ba-0ef1a6c7fb9c"
+    - ID: "adeeaa1d-7479-49cf-b855-c67e641c6e0d"
+      Hint: Content
+      Value: Souto Foods offers a comprehensive assortment of authentic Hispanic products to meet the diverse needs of your shoppers. From pantry staples to specialty items, our curated product selection spans dozens of categories including rice, beans, sauces, spices, snacks, beverages, dairy, and frozen foods. We partner with trusted brands and suppliers to ensure quality, authenticity, and value in every product we carry. Our category management experts work with you to optimize your product mix, planograms, and inventory to maximize sales and minimize waste.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: Products
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T161304Z

@@ -1,0 +1,145 @@
+﻿---
+ID: "ede510b2-ae40-47a1-a5fc-d6f4f0000dd7"
+Parent: "6f0f6186-643a-4014-9406-d6c55f647182"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/alex-lee/souto-foods/Home/About Us/Data/Text 1_var3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T201201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="max-width:500px;padding:20px 0;"><h3 style="color:#1a1a1a;font-family:'Arial Black', Arial, sans-serif;font-size:1.1rem;letter-spacing:0.08em;line-height:1.3;margin:0 0 16px;text-transform:uppercase;"><strong>Powered by Partnership</strong></h3><p style="color:#444444;font-family:Arial, sans-serif;font-size:0.95rem;font-weight:400;line-height:1.75;margin:0;">Souto Foods works hand-in-hand with its sister company, Merchants Distributors, LLC (MDI). In partnering with MDI, we have expanded our reach, capabilities, and buying power. We have cultivated an extensive product portfolio and now offer expert merchandising, marketing, and digital and technology services. When you partner with Souto Foods, you gain the support and expertise of an expansive team that is ready to serve you with excellence.&nbsp;</p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea86eca9-3cd1-4884-ac31-60b10bb2f242"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T202041Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T201201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="max-width:500px;padding:20px 0;"><h3 style="color:#1a1a1a;font-family:'Arial Black', Arial, sans-serif;font-size:1.1rem;letter-spacing:0.08em;line-height:1.3;margin:0 0 16px;text-transform:uppercase;"><strong>Impulsado por la Asociación</strong></h3><p style="color:#444444;font-family:Arial, sans-serif;font-size:0.95rem;font-weight:400;line-height:1.75;margin:0;">Souto Foods trabaja mano a mano con su empresa hermana, Merchants Distributors, LLC (MDI). Al asociarnos con MDI, hemos ampliado nuestro alcance, capacidades y poder de compra. Hemos cultivado un extenso portafolio de productos y ahora ofrecemos servicios expertos de comercialización, marketing y tecnología digital. Cuando te asocias con Souto Foods, obtienes el apoyo y la experiencia de un equipo extenso que está listo para servirte con excelencia.&nbsp;</p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93552a19-553f-413a-9fd6-4d48edba07b9"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260305T202121Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T201201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="max-width:500px;padding:20px 0;"><h3 style="color:#1a1a1a;font-family:'Arial Black', Arial, sans-serif;font-size:1.1rem;letter-spacing:0.08em;line-height:1.3;margin:0 0 16px;text-transform:uppercase;"><strong>Impulsado por la Asociación</strong></h3><p style="color:#444444;font-family:Arial, sans-serif;font-size:0.95rem;font-weight:400;line-height:1.75;margin:0;">Souto Foods trabaja mano a mano con su empresa hermana, Merchants Distributors, LLC (MDI). Al asociarnos con MDI, hemos ampliado nuestro alcance, capacidades y poder de compra. Hemos cultivado un extenso portafolio de productos y ahora ofrecemos servicios expertos de comercialización, marketing y tecnología digital. Cuando te asocias con Souto Foods, obtienes el apoyo y la experiencia de un equipo extenso que está listo para servirte con excelencia.&nbsp;</p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3682739e-6777-4aa1-bc2c-2f5406495ebd"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260309T185036Z
+  - Version: 3
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T201201Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><div style="max-width:500px;padding:20px 0;"><h3 style="color:#1a1a1a;font-family:'Arial Black', Arial, sans-serif;font-size:1.1rem;letter-spacing:0.08em;line-height:1.3;margin:0 0 16px;text-transform:uppercase;"><strong>Impulsado por la Colaboración</strong></h3><p style="color:#444444;font-family:Arial, sans-serif;font-size:0.95rem;font-weight:400;line-height:1.75;margin:0;">Souto Foods trabaja de la mano con su empresa hermana, Merchants Distributors, LLC (MDI). Al asociarnos con MDI, hemos ampliado nuestro alcance, capacidades y poder de compra. Hemos cultivado un extenso portafolio de productos y ahora ofrecemos servicios expertos de comercialización, marketing, y servicios digitales y tecnológicos. Cuando te asocias con Souto Foods, obtienes el apoyo y la experiencia de un equipo amplio que está listo para servirte con excelencia.&nbsp;</p></div></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68dc8440-f8bc-4d0e-8a0a-823ff150c1a7"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: AI translated
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260312T172627Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "a5572da4-9a75-4c96-9faa-de80e7e2cbcc"
+Parent: "3eed1c66-2d16-475f-a491-0234b95248d9"
+Template: "ca66b1db-04e4-46d4-9f1c-ec7ef6d31c62"
+Path: "/sitecore/content/alex-lee/souto-foods/Home/Privacy Policy"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C43EFFC7-32AE-4A30-B026-825E12B9658A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260308T161338Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Privacy Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93e6e083-2426-4092-a81e-819eeac8232c"
+    - ID: "adeeaa1d-7479-49cf-b855-c67e641c6e0d"
+      Hint: Content
+      Value: Souto Foods is committed to protecting your privacy and the security of your personal information. This Privacy Policy describes how we collect, use, and safeguard the information you provide when you visit our website or interact with our services. We do not sell or share your personal information with third parties for marketing purposes. The information we collect is used solely to improve your experience, process inquiries, and fulfill business operations. By using this website, you consent to the practices described in this policy. If you have any questions about our privacy practices, please contact us.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "bec0238f-4872-475d-b75b-a9734b8963e0"
+      Hint: Title
+      Value: Privacy Policy
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T161431Z

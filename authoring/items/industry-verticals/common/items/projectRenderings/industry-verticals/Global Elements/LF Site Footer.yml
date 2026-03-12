@@ -1,0 +1,47 @@
+﻿---
+ID: "7ad60495-0083-49f6-83a4-9ed2d5b3cd52"
+Parent: "50eb83b5-98c3-404d-babd-c120ba7603ec"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: "/sitecore/layout/Renderings/Project/industry-verticals/Global Elements/LF Site Footer"
+SharedFields:
+- ID: "003a72cd-4cd6-4392-9862-41d4159929cd"
+  Hint: Data source
+  Value: "Project/industry-verticals/Components/Page Content/Hero Banner/Hero Banner"
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: LFSiteFooter
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{F1A250DB-2CAF-45DD-9BA5-0860A1AD7E45}"
+- ID: "c39a90ce-0035-41bb-90f6-3c8a6ea87797"
+  Hint: AddFieldEditorButton
+  Value: 0
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "59edcea6-8e48-4c74-9b15-06008e792e10"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260305T171203Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a1a543d-b91e-49a9-9446-2269bc033e40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260308T040226Z
