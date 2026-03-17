@@ -124,15 +124,18 @@ const BlueCTAPromo = (props: PromoProps) => {
       )}
       <div className="relative z-10 container">
         <div className="max-w-3xl">
-          <ul className="list-none p-0 m-0">
+          <ul className="m-0 list-none p-0">
             <li>
-              <h5 className="font-heading text-foreground dark:text-foreground-dark text-lg font-semibold mb-2">
+              <h5 className="font-heading text-foreground dark:text-foreground-dark mb-2 text-lg font-semibold">
                 <ContentSdkText field={props.fields.PromoTitle} />
               </h5>
-              <ContentSdkRichText className="mb-4 text-base text-foreground/90 dark:text-foreground-secondary-dark/90" field={props.fields.PromoDescription} />
+              <ContentSdkRichText
+                className="text-foreground/90 dark:text-foreground-secondary-dark/90 mb-4 text-base"
+                field={props.fields.PromoDescription}
+              />
               <ContentSdkLink
                 field={props.fields.PromoMoreInfo}
-                className="promo-blue-cta__inset-link font-heading text-foreground dark:text-foreground-dark border-l-4 border-accent pl-4 py-2 block w-fit text-lg font-semibold hover:bg-background-tertiary dark:hover:bg-foreground/10 transition-colors rounded-r-md"
+                className="promo-blue-cta__inset-link font-heading text-foreground dark:text-foreground-dark border-accent hover:bg-background-tertiary dark:hover:bg-foreground/10 block w-fit rounded-r-md border-l-4 py-2 pl-4 text-lg font-semibold transition-colors"
                 aria-label={linkText ? `click to navigate to ${linkText}` : undefined}
               >
                 {linkText}
@@ -174,18 +177,18 @@ const WhiteCTAPromo = (props: PromoProps) => {
         <div className="card bg-background dark:bg-background-dark shadow-soft rounded-lg p-6 sm:p-8">
           <div>
             <h5
-              className="font-heading text-foreground dark:text-foreground-dark text-lg font-semibold mb-2"
+              className="font-heading text-foreground dark:text-foreground-dark mb-2 text-lg font-semibold"
               aria-label={titleValue ?? undefined}
             >
               <ContentSdkText field={props.fields.PromoTitle} />
             </h5>
             <ContentSdkRichText
-              className="mb-4 text-base text-foreground/90 dark:text-foreground-secondary-dark/90"
+              className="text-foreground/90 dark:text-foreground-secondary-dark/90 mb-4 text-base"
               field={props.fields.PromoDescription}
             />
             <ContentSdkLink
               field={props.fields.PromoMoreInfo}
-              className="promo-white-cta__inset-link font-heading text-accent dark:text-accent text-lg font-semibold tracking-[0.175em] uppercase border-l-4 border-accent pl-4 py-2 block w-fit hover:bg-background-tertiary dark:hover:bg-foreground/10 transition-colors rounded-r-md"
+              className="promo-white-cta__inset-link font-heading text-accent dark:text-accent border-accent hover:bg-background-tertiary dark:hover:bg-foreground/10 block w-fit rounded-r-md border-l-4 py-2 pl-4 text-lg font-semibold tracking-[0.175em] uppercase transition-colors"
               aria-label={linkText ? `click to navigate to ${linkText}` : undefined}
             >
               {linkText}
