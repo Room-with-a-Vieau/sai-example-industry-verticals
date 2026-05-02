@@ -101,8 +101,8 @@ const DestinationListingInner = (props: DestinationListingProps) => {
     facetValueId: string;
   };
 
-  const getFacetOptions = useCallback((facets: SearchResponseFacet[], facetName: string): FacetOption[] =>
-  {
+  const getFacetOptions = useCallback(
+    (facets: SearchResponseFacet[], facetName: string): FacetOption[] => {
       const facet = facets.find((f) => f.name === facetName);
       if (!facet) return [];
       const options = facet.value.map((v: SearchResponseFacetItem, index: number) => ({
@@ -114,11 +114,22 @@ const DestinationListingInner = (props: DestinationListingProps) => {
         facetValueId: v.id,
       }));
       return [...options];
-  }, []);
+    },
+    []
+  );
 
-  const continentOptions = useMemo(() => getFacetOptions(facets, 'continent'), [facets, getFacetOptions]);
-  const typeOptions = useMemo(() => getFacetOptions(facets, 'label'), [facets, getFacetOptions]);
-  const activityOptions = useMemo(() => getFacetOptions(facets, 'activities'), [facets, getFacetOptions]);
+  const continentOptions = useMemo(
+    () => getFacetOptions(facets, 'continent'),
+    [facets, getFacetOptions]
+  );
+  const typeOptions = useMemo(
+    () => getFacetOptions(facets, 'label'),
+    [facets, getFacetOptions]
+  );
+  const activityOptions = useMemo(
+    () => getFacetOptions(facets, 'activities'),
+    [facets, getFacetOptions]
+  );
 
   const selectedFacets = useSearchResultsSelectedFacets();
 
