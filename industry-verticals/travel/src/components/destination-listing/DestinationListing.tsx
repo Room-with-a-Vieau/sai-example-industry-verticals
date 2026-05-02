@@ -101,35 +101,24 @@ const DestinationListingInner = (props: DestinationListingProps) => {
     facetValueId: string;
   };
 
-  const getFacetOptions = useCallback((facets: SearchResponseFacet[], facetName: string): FacetOption[] => {
-    const facet = facets.find((f) => f.name === facetName);
-
-    if (!facet) return [];
-
-    const options = facet.value.map((v: SearchResponseFacetItem, index: number) => ({
-      label: `${v.text} (${v.count})`,
-      value: v.text,
-      id: v.id,
-      facetId: facetName,
-      facetIndex: index,
-      facetValueId: v.id,
-    }));
-
-    return [...options];
+  const getFacetOptions = useCallback((facets: SearchResponseFacet[], facetName: string): FacetOption[] =>
+  {
+      const facet = facets.find((f) => f.name === facetName);
+      if (!facet) return [];
+      const options = facet.value.map((v: SearchResponseFacetItem, index: number) => ({
+        label: `${v.text} (${v.count})`,
+        value: v.text,
+        id: v.id,
+        facetId: facetName,
+        facetIndex: index,
+        facetValueId: v.id,
+      }));
+      return [...options];
   }, []);
 
-  const continentOptions = useMemo(
-    () => getFacetOptions(facets, 'continent'),
-    [facets, getFacetOptions]
-  );
-  const typeOptions = useMemo(
-    () => getFacetOptions(facets, 'label'),
-    [facets, getFacetOptions]
-  );
-  const activityOptions = useMemo(
-    () => getFacetOptions(facets, 'activities'),
-    [facets, getFacetOptions]
-  );
+  const continentOptions = useMemo(() => getFacetOptions(facets, 'continent'), [facets, getFacetOptions]);
+  const typeOptions = useMemo(() => getFacetOptions(facets, 'label'), [facets, getFacetOptions]);
+  const activityOptions = useMemo(() => getFacetOptions(facets, 'activities'), [facets, getFacetOptions]);
 
   const selectedFacets = useSearchResultsSelectedFacets();
 
