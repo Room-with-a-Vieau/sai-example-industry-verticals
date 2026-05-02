@@ -118,9 +118,15 @@ const DestinationListingInner = (props: DestinationListingProps) => {
     []
   );
 
-  const continentOptions = useMemo(() => getFacetOptions(facets, 'continent'), [facets, getFacetOptions]);
+  const continentOptions = useMemo(
+    () => getFacetOptions(facets, 'continent'),
+    [facets, getFacetOptions]
+  );
   const typeOptions = useMemo(() => getFacetOptions(facets, 'label'), [facets, getFacetOptions]);
-  const activityOptions = useMemo(() => getFacetOptions(facets, 'activities'), [facets, getFacetOptions]);
+  const activityOptions = useMemo(
+    () => getFacetOptions(facets, 'activities'),
+    [facets, getFacetOptions]
+  );
 
   const selectedFacets = useSearchResultsSelectedFacets();
 
