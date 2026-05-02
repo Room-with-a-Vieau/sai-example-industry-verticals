@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useCallback } from 'react';
 import { Destination, DestinationSearchResult } from '@/types/destination';
 import DestinationCard from '../non-sitecore/DestinationCard';
 import { ComponentProps } from '@/lib/component-props';
@@ -101,7 +101,7 @@ const DestinationListingInner = (props: DestinationListingProps) => {
     facetValueId: string;
   };
 
-  const getFacetOptions = (facets: SearchResponseFacet[], facetName: string): FacetOption[] => {
+  const getFacetOptions = useCallback((facets: SearchResponseFacet[], facetName: string): FacetOption[] => {
     const facet = facets.find((f) => f.name === facetName);
 
     if (!facet) return [];
@@ -116,11 +116,11 @@ const DestinationListingInner = (props: DestinationListingProps) => {
     }));
 
     return [...options];
-  };
+  }, []);
 
-  const continentOptions = useMemo(() => getFacetOptions(facets, 'continent'), [facets, t]);
-  const typeOptions = useMemo(() => getFacetOptions(facets, 'label'), [facets, t]);
-  const activityOptions = useMemo(() => getFacetOptions(facets, 'activities'), [facets, t]);
+  const continentOptions = useMemo(() => getFacetOptions(facets, 'continent'), [facets, getFacetOptions]);
+  const typeOptions = useMemo(() => getFacetOptions(facets, 'label'), [facets, getFacetOptions]);
+  const activityOptions = useMemo(() => getFacetOptions(facets, 'activities'), [facets, getFacetOptions]);
 
   const selectedFacets = useSearchResultsSelectedFacets();
 

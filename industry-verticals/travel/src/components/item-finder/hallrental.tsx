@@ -35,21 +35,30 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
   const [specialRequests, setSpecialRequests] = useState('');
 
   // Sample unavailable dates (mimicking booked dates)
-  const unavailableDates = useMemo(() => [
-    new Date(2026, 4, 10), // May 10, 2026
-    new Date(2026, 4, 17), // May 17, 2026
-    new Date(2026, 4, 24), // May 24, 2026
-    new Date(2026, 5, 1),  // June 1, 2026
-  ], []);
+  const unavailableDates = useMemo(
+    () => [
+      new Date(2026, 4, 10), // May 10, 2026
+      new Date(2026, 4, 17), // May 17, 2026
+      new Date(2026, 4, 24), // May 24, 2026
+      new Date(2026, 5, 1), // June 1, 2026
+    ],
+    []
+  );
 
   const hallOptions = useMemo(
     () => [
-      { label: t('stern_auditorium_label') || 'Stern Auditorium / Perelman Stage', value: 'stern-auditorium' },
+      {
+        label: t('stern_auditorium_label') || 'Stern Auditorium / Perelman Stage',
+        value: 'stern-auditorium',
+      },
       { label: t('zankel_hall_label') || 'Zankel Hall', value: 'zankel-hall' },
       { label: t('weill_recital_hall_label') || 'Weill Recital Hall', value: 'weill-recital-hall' },
       { label: t('rehearsal_rooms_label') || 'Rehearsal Rooms', value: 'rehearsal-rooms' },
       { label: t('green_room_label') || 'Green Room', value: 'green-room' },
-      { label: t('rotunda_lobby_label') || 'Rotunda / Lobby / Event Space', value: 'rotunda-lobby' },
+      {
+        label: t('rotunda_lobby_label') || 'Rotunda / Lobby / Event Space',
+        value: 'rotunda-lobby',
+      },
     ],
     [t]
   );
@@ -137,7 +146,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
           <button
             type="button"
             className={`border-border inline-flex h-9 w-full items-center justify-between gap-2 rounded-md border bg-transparent ${
-              hasIcon ? 'pl-10 pr-4' : 'px-4'
+              hasIcon ? 'r-4 pl-10' : 'px-4'
             } py-1 text-xs shadow-xs focus:outline-none ${
               isPlaceholder ? 'text-foreground-muted' : 'text-foreground'
             }`}
@@ -163,10 +172,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
   };
 
   return (
-    <div
-      className={`component hall-rental ${styles || ''}`}
-      id={id || undefined}
-    >
+    <div className={`component hall-rental ${styles || ''}`} id={id || undefined}>
       {isPageEditing && !fields && (
         <div className="text-foreground-muted p-4 text-center">[HALL RENTAL - PROTOTYPE]</div>
       )}
