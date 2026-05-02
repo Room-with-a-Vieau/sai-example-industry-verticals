@@ -29,7 +29,14 @@ export interface CalendarProps {
   className?: string;
 }
 
-export function Calendar({ selected, onSelect, minDate, maxDate, unavailableDates, className }: CalendarProps) {
+export function Calendar({
+  selected,
+  onSelect,
+  minDate,
+  maxDate,
+  unavailableDates,
+  className,
+}: CalendarProps) {
   const [currentMonth, setCurrentMonth] = React.useState(
     selected ? startOfMonth(selected) : startOfMonth(new Date())
   );
@@ -135,7 +142,9 @@ export function Calendar({ selected, onSelect, minDate, maxDate, unavailableDate
                 !isCurrentMonth && 'text-foreground-muted opacity-50',
                 isSelected && 'bg-foreground text-background hover:bg-foreground',
                 isUnavailable && 'bg-foreground-muted/10 text-foreground-muted',
-                isDisabled && !isUnavailable && 'cursor-not-allowed opacity-50 hover:bg-transparent',
+                isDisabled &&
+                  !isUnavailable &&
+                  'cursor-not-allowed opacity-50 hover:bg-transparent',
                 isUnavailable && 'cursor-not-allowed opacity-50',
                 isToday && !isSelected && 'text-foreground',
                 !isDisabled && !isSelected && 'hover:bg-background-muted/30',
