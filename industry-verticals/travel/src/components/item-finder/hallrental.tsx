@@ -193,7 +193,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
                   <FilterDropdown
                     options={hallOptions}
                     selectedValue={selectedHall}
-                    onSelect={setSelectedHall}
+                    onSelect={(value) => setSelectedHall(String(value))}
                     placeholder={t('select_hall_placeholder') || 'Select Hall'}
                     hasIcon
                   />
@@ -209,7 +209,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
                   <FilterDropdown
                     options={eventTypeOptions}
                     selectedValue={selectedEventType}
-                    onSelect={setSelectedEventType}
+                    onSelect={(value) => setSelectedEventType(String(value))}
                     placeholder={t('select_event_type_placeholder') || 'Select Event Type'}
                   />
                 </div>
@@ -246,7 +246,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
                   <FilterDropdown
                     options={timeOptions}
                     selectedValue={selectedTime}
-                    onSelect={setSelectedTime}
+                    onSelect={(value) => setSelectedTime(String(value))}
                     placeholder={t('select_time_placeholder') || 'Select Time'}
                     hasIcon
                   />
