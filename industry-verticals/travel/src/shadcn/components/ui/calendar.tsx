@@ -25,10 +25,11 @@ export interface CalendarProps {
   onSelect?: (date: Date | null) => void;
   minDate?: Date;
   maxDate?: Date;
+  unavailableDates?: Date[];
   className?: string;
 }
 
-export function Calendar({ selected, onSelect, minDate, maxDate, className }: CalendarProps) {
+export function Calendar({ selected, onSelect, minDate, maxDate, unavailableDates, className }: CalendarProps) {
   const [currentMonth, setCurrentMonth] = React.useState(
     selected ? startOfMonth(selected) : startOfMonth(new Date())
   );
@@ -49,11 +50,17 @@ export function Calendar({ selected, onSelect, minDate, maxDate, className }: Ca
     setCurrentMonth(addMonths(currentMonth, 1));
   };
 
+  const isUnavailableDate = (day: Date) =>
+    unavailableDates?.some((unavailableDate) => isSameDay(day, unavailableDate));
+
   const handleDateClick = (day: Date) => {
     if (minDate && isBefore(day, startOfDay(minDate))) {
       return;
     }
     if (maxDate && isAfter(day, startOfDay(maxDate))) {
+      return;
+    }
+    if (isUnavailableDate(day)) {
       return;
     }
     if (onSelect) {
@@ -66,6 +73,9 @@ export function Calendar({ selected, onSelect, minDate, maxDate, className }: Ca
       return true;
     }
     if (maxDate && isAfter(day, startOfDay(maxDate))) {
+      return true;
+    }
+    if (isUnavailableDate(day)) {
       return true;
     }
     return false;
@@ -110,6 +120,7 @@ export function Calendar({ selected, onSelect, minDate, maxDate, className }: Ca
         {days.map((day, dayIdx) => {
           const isCurrentMonth = isSameMonth(day, currentMonth);
           const isSelected = selected && isSameDay(day, selected);
+          const isUnavailable = isUnavailableDate(day);
           const isDisabled = isDateDisabled(day);
           const isToday = isSameDay(day, new Date());
 
@@ -120,12 +131,15 @@ export function Calendar({ selected, onSelect, minDate, maxDate, className }: Ca
               onClick={() => handleDateClick(day)}
               disabled={isDisabled}
               className={cn(
-                'text-foreground relative flex h-7 w-7 items-center justify-center rounded-md text-xs transition-colors',
+                'relative flex h-7 w-7 items-center justify-center rounded-md text-xs transition-colors',
                 !isCurrentMonth && 'text-foreground-muted opacity-50',
                 isSelected && 'bg-foreground text-background hover:bg-foreground',
-                isDisabled && 'cursor-not-allowed opacity-50 hover:bg-transparent',
+                isUnavailable && 'bg-foreground-muted/10 text-foreground-muted',
+                isDisabled && !isUnavailable && 'cursor-not-allowed opacity-50 hover:bg-transparent',
+                isUnavailable && 'cursor-not-allowed opacity-50',
                 isToday && !isSelected && 'text-foreground',
-                !isDisabled && !isSelected && 'hover:bg-background-muted/30'
+                !isDisabled && !isSelected && 'hover:bg-background-muted/30',
+                !isDisabled && !isSelected && 'text-foreground'
               )}
             >
               {format(day, 'd')}

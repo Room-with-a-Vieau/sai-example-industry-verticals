@@ -35,6 +35,7 @@ import * as ArticleCard from 'src/components/non-sitecore/search/ArticleCard';
 import * as Navigation from 'src/components/navigation/Navigation';
 import * as LinkList from 'src/components/link-list/LinkList';
 import * as ItemFinder from 'src/components/item-finder/ItemFinder';
+import * as hallrental from 'src/components/item-finder/hallrental';
 import * as Image from 'src/components/image/Image';
 import * as IconLinkList from 'src/components/icon-link-list/IconLinkList';
 import * as HeroBanner from 'src/components/hero-banner/HeroBanner';
@@ -85,6 +86,7 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['Navigation', { ...Navigation, componentType: 'client' }],
   ['LinkList', { ...LinkList }],
   ['ItemFinder', { ...ItemFinder, componentType: 'client' }],
+  ['hallrental', { ...hallrental, componentType: 'client' }],
   ['Image', { ...Image }],
   ['IconLinkList', { ...IconLinkList }],
   ['HeroBanner', { ...HeroBanner }],

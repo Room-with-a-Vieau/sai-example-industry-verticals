@@ -15,6 +15,7 @@ export interface DatePickerProps {
   dateFormat?: string;
   minDate?: Date;
   maxDate?: Date;
+  unavailableDates?: Date[];
   showIcon?: boolean;
   inputClassName?: string;
 }
@@ -26,6 +27,7 @@ export function DatePicker({
   dateFormat = 'MMM d, yyyy',
   minDate,
   maxDate,
+  unavailableDates,
   showIcon = true,
   inputClassName,
 }: DatePickerProps) {
@@ -67,7 +69,13 @@ export function DatePicker({
         </button>
       </PopoverTrigger>
       <PopoverContent className="w-auto p-0" align="center">
-        <Calendar selected={selected} onSelect={handleSelect} minDate={minDate} maxDate={maxDate} />
+        <Calendar
+          selected={selected}
+          onSelect={handleSelect}
+          minDate={minDate}
+          maxDate={maxDate}
+          unavailableDates={unavailableDates}
+        />
       </PopoverContent>
     </Popover>
   );
