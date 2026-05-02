@@ -265,7 +265,7 @@ export const Default = ({ params, fields }: HallRentalProps): JSX.Element => {
                   <FilterDropdown
                     options={guestOptions}
                     selectedValue={guestCount}
-                    onSelect={setGuestCount}
+                    onSelect={(value) => setGuestCount(Number(value))}
                     placeholder={t('select_guest_count_placeholder') || 'Select Guest Count'}
                     hasIcon
                   />
