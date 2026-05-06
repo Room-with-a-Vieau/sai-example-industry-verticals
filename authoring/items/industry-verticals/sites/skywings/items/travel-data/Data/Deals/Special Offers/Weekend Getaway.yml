@@ -34,10 +34,10 @@ Languages:
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "6495e4a8-178b-4ae5-a8b1-237c4f36aa6f"
       Hint: DealDescription
-      Value: Special rates for domestic weekend trips
+      Value: Special rates for weekend rentals
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a658f72-fba9-4e2f-ad9f-d4714b1526e6"
+      Value: "f0870fc7-d87b-4fdd-a0dc-0607d4c4616b"
     - ID: "98301352-efe7-4081-8621-b071909afbfd"
       Hint: DealCtaLink
       Value: |
@@ -48,10 +48,10 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251219T170111Z
+      Value: 20260504T190247Z
     - ID: "eb6a0572-6994-474e-a1be-a7728a551346"
       Hint: DealTitle
       Value: Weekend Getaway

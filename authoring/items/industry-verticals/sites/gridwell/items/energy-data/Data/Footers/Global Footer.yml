@@ -31,8 +31,7 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "5894222a-d687-4fc4-ad5e-2ee852172011"
       Hint: CookiesText
-      Value: |
-        <link linktype="external" url="#" target="" text="Accessibility" title="" class=""/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Accessibility', 'title': '', 'url': '#'}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -40,35 +39,32 @@ Languages:
     - ID: "6e545c55-70f1-49ef-b75f-e10257f0845a"
       Hint: Description
       Value: |
-        <div class="ck-content"><p>Empowering minds, shaping futures, and building tomorrow's leaders through excellence in education and research.</p></div>
+        <div class="ck-content"><p>Powering Canadian commerce for over 25 years with payment solutions built for businesses of every size.</p></div>
     - ID: "775b58bb-13a1-426d-86e5-765ad797e407"
       Hint: TitleOne
-      Value: About Gridwell
+      Value: About Gridwell Financial
     - ID: "79d2d2a7-b0d5-421c-89fb-b7d040f56d26"
       Hint: CopyrightText
-      Value: © 2026 Gridwell. All rights reserved.
+      Value: © 2026 Gridwell Financial. All rights reserved.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "11069a94-bdf9-42c6-b559-f5786f53b784"
+      Value: "b5316ec1-a8c7-47f7-bd3a-d3529891a71d"
     - ID: "9f2b5ebe-6b3a-4128-b6e9-6b7adf4e86da"
       Hint: PolicyText
-      Value: |
-        <link linktype="external" url="#" target="" text="Privacy Policy" title="" class=""/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Privacy Policy', 'title': '', 'url': '#'}"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d12db112-ac8e-4701-9186-1c25d7c2c148"
       Hint: TitleTwo
       Value: Contact Us
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090609Z
+      Value: 20260502T150103Z
     - ID: "ec567a2a-8549-4add-93c2-d26ed076e45b"
       Hint: ContactText
-      Value: |
-        <link linktype="external" url="#" target="" text="Contact Us" title="" class=""/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Contact Us', 'title': '', 'url': '#'}"
     - ID: "ff56e380-2171-49bf-a693-84ee1bc9413b"
       Hint: TermsText
-      Value: |
-        <link linktype="external" url="#" target="" text="Terms of Service" title="" class=""/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Terms of Service', 'title': '', 'url': '#'}"

@@ -1,0 +1,241 @@
+﻿---
+ID: "3d374242-75bb-46b3-a13a-bec854b3d5bb"
+Parent: "9b577491-9b01-4fe5-a4a1-ba193bb3bf81"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
+Path: "/sitecore/content/industry-verticals/skywings/Home/weddings"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{529AA57C-FF9D-49D3-B360-77CFECCC1E97}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "e9f20fba-0aa1-41c6-a00f-7c3b4892aa67"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Weddings
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{128C2254-CEA2-4BB5-B63C-B7B4A6B02EE8}"
+              p:before="*"
+              s:ds="local:/Data/HeroBanner"
+              s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
+              s:par="DynamicPlaceholderId=1"
+              s:ph="/headless-main" />
+            <r
+              uid="{D3281A12-4629-4F96-B137-B9D50F7F1E6E}"
+              p:after="r[@uid='{128C2254-CEA2-4BB5-B63C-B7B4A6B02EE8}']"
+              s:ds="local:/Data/RichText"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=2"
+              s:ph="/headless-main" />
+            <r
+              uid="{938B76D4-FAB9-42D5-A69B-F5AE171684BA}"
+              p:after="r[@uid='{D3281A12-4629-4F96-B137-B9D50F7F1E6E}']"
+              s:ds="local:/Data/VenueSpacesHeading"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=3"
+              s:ph="/headless-main" />
+            <r
+              uid="{518F94A5-6132-4788-8323-999C27832765}"
+              p:after="r[@uid='{938B76D4-FAB9-42D5-A69B-F5AE171684BA}']"
+              s:ds="local:/Data/VenuePromoOne"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="DynamicPlaceholderId=4"
+              s:ph="/headless-main" />
+            <r
+              uid="{EBDB6404-33A1-458E-AF0B-E0327E4CCE8F}"
+              p:after="r[@uid='{518F94A5-6132-4788-8323-999C27832765}']"
+              s:ds="local:/Data/VenuePromoTwo"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="DynamicPlaceholderId=5"
+              s:ph="/headless-main" />
+            <r
+              uid="{C86589D5-0D23-4205-A3F8-72E943AC6CCB}"
+              p:after="r[@uid='{EBDB6404-33A1-458E-AF0B-E0327E4CCE8F}']"
+              s:ds="local:/Data/VenuePromoThree"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="DynamicPlaceholderId=6"
+              s:ph="/headless-main" />
+            <r
+              uid="{BCD5294D-4D5D-47FF-B680-A032A1E8AF36}"
+              p:after="r[@uid='{C86589D5-0D23-4205-A3F8-72E943AC6CCB}']"
+              s:ds="local:/Data/WhatsIncludedSection"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=7"
+              s:ph="/headless-main" />
+            <r
+              uid="{BE148ED5-4B66-40E8-9A64-1186ADB737B1}"
+              p:after="r[@uid='{BCD5294D-4D5D-47FF-B680-A032A1E8AF36}']"
+              s:ds="local:/Data/GalleryHeading"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=8"
+              s:ph="/headless-main" />
+            <r
+              uid="{11C73E96-D300-4A5C-A679-3CCAD42500D9}"
+              p:after="r[@uid='{BE148ED5-4B66-40E8-9A64-1186ADB737B1}']"
+              s:ds="local:/Data/GalleryImageOne"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="DynamicPlaceholderId=9"
+              s:ph="/headless-main" />
+            <r
+              uid="{9D8075DF-FBD5-4009-AE1E-2C32BEBC3993}"
+              p:after="r[@uid='{11C73E96-D300-4A5C-A679-3CCAD42500D9}']"
+              s:ds="local:/Data/GalleryImageTwo"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="DynamicPlaceholderId=10"
+              s:ph="/headless-main" />
+            <r
+              uid="{748801A2-25F3-4D2C-B5B7-EA195AC4136F}"
+              p:after="r[@uid='{9D8075DF-FBD5-4009-AE1E-2C32BEBC3993}']"
+              s:ds="local:/Data/GalleryImageThree"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="DynamicPlaceholderId=11"
+              s:ph="/headless-main" />
+            <r
+              uid="{A9E601D4-9624-4F32-8385-CBEB57A8E050}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/InquireSection"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=12"
+              s:ph="/headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260504T223704Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: weddings
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: weddings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66ce4953-6357-4c34-86d9-50d5bc2986ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260504T225528Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{137E44E3-7A9E-4F8C-82EC-76D8D8254151}"
+              p:before="*"
+              s:ds="f40e62e0-bc02-46f1-b5b3-c42c7f71852f"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA6D3D740-A319-43F9-844F-9E349F2711C8%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{7B2791E0-2866-40D7-86F5-4196E8475ACC}"
+                    s:name="e875afc8e2014aefbd90b1d27cc6d630">
+                    <conditions>
+                      <condition
+                        uid="0D494C3EDB544B409C63B263CC42489E"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="e875afc8e2014aefbd90b1d27cc6d630" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{B485DEF1-0FAA-4612-8C11-F8D1BECF59BC}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="d07b79b5-95ca-433f-ae05-013849c27a37" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="D962D1B51521482FB504B387258ED858"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{800F567A-A60C-4959-B0C3-ADE7B403DD23}"
+              p:after="r[@uid='{137E44E3-7A9E-4F8C-82EC-76D8D8254151}']"
+              s:ds="local:/Data/Wedding Worth Remembering"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3A4F1D4C-D977-4927-8D48-43407C82838E%7D&amp;Styles=%7C%7B515B07E4-7AE8-41C7-BFE1-8DCC8A7DD567%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{B35F8F16-0621-4DE1-B4B5-F761604F2637}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/WhatsIncludedSection"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B3A4F1D4C-D977-4927-8D48-43407C82838E%7D&amp;Styles=%7C%7B515B07E4-7AE8-41C7-BFE1-8DCC8A7DD567%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260504T225721Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Weddings
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Weddings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cf5fb9b-dd14-4489-8c45-3c3d4dcbe2a3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260504T225721Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260505T003243Z

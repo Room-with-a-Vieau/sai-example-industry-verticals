@@ -46,7 +46,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: When Gridwell issues an Energy Emergency Alert, immediate action is needed to protect grid reliability. This article outlines what an EEA is, why it is issued, and the practical steps households and businesses can take—such as reducing electricity use and avoiding heavy appliances—to help prevent rolling outages and support system stability.
+      Value: When Gridwell Financial issues a Critical Fraud Alert, immediate action protects the merchant account from loss. This article outlines what the alert is, why it is issued, and the specific steps merchants should take — reviewing transactions in Merchant Direct, tightening card controls, and contacting support — to stop fraud before it settles.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095635Z
@@ -56,29 +56,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>When Gridwell issues an Energy Emergency Alert, the grid is already under serious stress. These alerts are not advisories but calls to action. Texans must quickly reduce electricity use to help balance supply and demand in real time.</p><p>The most effective actions include raising thermostats by a few degrees, turning off unnecessary lights, and avoiding the use of heavy appliances such as washers, dryers, and ovens. Businesses can also contribute by adjusting operations to reduce consumption. These conservation efforts buy valuable time and keep the system stable.</p><p>By responding to an EEA quickly and decisively, communities can help prevent rolling outages. The collective effort of Texans plays a huge role in reliability. Signing up for both TXANS and EEA notifications ensures that households are always ready and equipped with the right information.</p></div>
+        <div class="ck-content"><p>When Gridwell Financial detects unusual activity on a merchant account, our team issues a Critical Fraud Alert. These alerts are not routine notifications — they signal that an account may be at immediate risk and that quick action is needed to prevent losses or service disruption.</p><p>The most effective steps a merchant can take are to log into Merchant Direct, review recent transactions, and confirm or dispute any flagged charges. Disabling card-on-file processing temporarily, requiring CVV on all transactions, and changing portal passwords are also strongly recommended. Our 24/7 support team is available to walk merchants through the response process.</p><p>By acting on a Critical Fraud Alert quickly, businesses can stop fraudulent transactions before they settle and avoid chargebacks entirely. Signing up for both standard fraud alerts and Critical Fraud Alerts ensures that merchants are always notified through the right channel at the right urgency level.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: An Energy Emergency Alert (EEA) signals that the Texas grid is in critical condition and requires immediate conservation. Many residents are unsure of what steps to take when these alerts are issued, leading to panic or inaction. By following simple guidance, Texans can help prevent controlled outages and protect their communities. This article outlines the exact steps to follow during an EEA.
+      Value: A Critical Fraud Alert signals that a merchant account is at immediate risk and requires action. Many business owners are unsure of the right steps to take when one is issued, leading to delays that can be costly. Following a clear response process protects revenue and customers. This article outlines the exact steps to take when a Critical Fraud Alert is issued.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: An Energy Emergency Alert (EEA) is issued when the power grid is under critical stress and immediate conservation is required. This article explains what an EEA means, how it differs from advisory alerts, and the specific steps Texans should take to help stabilize the grid and prevent outages.
+      Value: A Critical Fraud Alert is issued when a merchant account shows signs of immediate risk. This article explains what the alert means and the specific steps merchants should take to protect their business and prevent losses.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85f9a9f5-929a-42ee-804a-65f8452b09fd"
+      Value: "f0cc1f3e-be8c-4103-b3d1-689329fd5d22"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: What to Do When an Energy Emergency Alert Is Issued
+      Value: What to Do When a Critical Fraud Alert Is Issued
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090607Z
+      Value: 20260502T151020Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: What to Do When an Energy Emergency Alert Is Issued
+      Value: What to Do When a Critical Fraud Alert Is Issued
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: Energy Emergency Alert, EEA, grid emergency, conserve energy, Gridwell alerts, rolling outages, emergency energy guidance
+      Value: Critical Fraud Alert, fraud response, merchant account security, chargeback prevention, payment fraud, Gridwell Financial alerts

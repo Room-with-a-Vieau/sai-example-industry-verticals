@@ -31,15 +31,14 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
-      Value: |
-        <link linktype="external" url="#" text="Market Rules"/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Pricing', 'title': '', 'url': '#'}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6ff31eac-f5f6-4030-b2e4-71a0b3d7b1e8"
+      Value: "d4ff192d-663e-420b-80fb-42a3a46e9c3d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260113T123745Z
+      Value: 20260502T145830Z

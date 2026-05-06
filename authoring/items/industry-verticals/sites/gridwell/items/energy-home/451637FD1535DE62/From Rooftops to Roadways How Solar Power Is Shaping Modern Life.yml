@@ -41,7 +41,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Learn how Gridwell is harnessing solar technology—from rooftops to roadways—to bring affordable, renewable power to homes and communities.
+      Value: "Learn how Gridwell Financial is harnessing mobile payment technology — from tap-to-pay to portable terminals — to bring flexible, accessible commerce to businesses of every size."
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T101322Z
@@ -51,29 +51,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Every sunrise brings new opportunities to capture clean energy, and Gridwell is helping make that vision a reality. Today’s solar technology is more powerful and efficient than ever before. Homeowners are lowering their bills and carbon footprints, while businesses are tapping into renewable energy to meet sustainability goals.</p><p>But solar’s impact goes beyond rooftops. Gridwell is exploring solar roadways, portable panels for emergency relief, and community solar programs that share the benefits of clean energy with everyone. Together, we’re transforming sunlight into a source of strength, innovation, and connection.</p></div>
+        <div class="ck-content"><p>Customers no longer expect to come to you — they expect you to come to them. Gridwell Financial is helping Canadian businesses meet that expectation with mobile payment technology that makes selling possible from anywhere. Tap-to-pay on a phone, a wireless terminal at a farmer's market, or a portable POS at a pop-up event — the checkout counter is wherever your customer happens to be.</p><p>For service-based businesses, mobile payments mean closing the sale on the spot instead of chasing invoices later. For retailers, they mean expanding into events, markets, and curbside pickup without buying new infrastructure. Whether you sell from a storefront, a sidewalk, or a smartphone, modern mobile commerce removes the barrier between the customer's intent to buy and the moment they actually do.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: Solar energy is no longer limited to rooftops. Explore how solar power is transforming transportation, infrastructure, and everyday life.
+      Value: "Mobile commerce is no longer limited to brick-and-mortar stores. Explore how portable payment technology is transforming retail, service-based businesses, and everyday commerce."
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Learn how Gridwell is harnessing solar technology—from rooftops to roadways—to bring affordable, renewable power to homes and communities.
+      Value: "Learn how Gridwell Financial is harnessing mobile payment technology — from tap-to-pay to portable terminals — to bring flexible commerce to businesses everywhere."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21a6a098-110c-466c-b0ac-0a2d28c79cec"
+      Value: "97d2e8f0-5706-43e7-b8f0-068b44404782"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "From Rooftops to Roadways: How Solar Power Is Shaping Modern Life"
+      Value: "From Storefronts to Sidewalks: How Mobile Payments Are Shaping Modern Commerce"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T092005Z
+      Value: 20260502T151414Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: The Power of Solar Energy | Gridwell Innovations in Renewable Tech
+      Value: The Power of Mobile Payments | Gridwell Financial Innovations in Commerce Tech
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: solar energy benefits, solar technology innovations, renewable power systems, community solar programs
+      Value: mobile payment benefits, payment technology innovations, portable POS systems, tap to pay, mobile commerce

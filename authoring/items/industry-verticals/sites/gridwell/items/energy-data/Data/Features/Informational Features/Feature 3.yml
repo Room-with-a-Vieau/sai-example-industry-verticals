@@ -24,7 +24,7 @@ Languages:
       Value: 20260119T172528Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: "Switch to energy-efficient LED bulbs to reduce heat and consumption"
+      Value: "Built-in fraud prevention tools secure every transaction and keep customer data safe."
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,14 +35,14 @@ Languages:
         sitecore\tharuka.bandara@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Use LED Lighting
+      Value: Protect Against Fraud
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0b7e674e-2788-473d-80ed-ad06d2cba0c7"
+      Value: "0642573e-8617-4eeb-9711-f73f1e339ece"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090609Z
+      Value: 20260502T150042Z

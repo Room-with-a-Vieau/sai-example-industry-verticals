@@ -61,7 +61,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: "Balancing supply and demand is one of Gridwell’s most critical responsibilities. This article explains how Gridwell’s operators use forecasting, real-time tools, and coordination with generation resources to maintain grid stability, integrate renewable energy, and prevent outages—keeping electricity flowing reliably to millions of homes and businesses."
+      Value: Processing payments reliably is one of Gridwell Financial's most critical responsibilities. This article explains how transactions are routed, authorized, screened for fraud, and settled — all in under two seconds — and how the people behind those systems keep Canadian commerce running smoothly.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260115T123456Z
@@ -71,29 +71,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Balancing supply and demand is Gridwell’s most critical responsibility. Electricity cannot be stored at large scale, which means power plants and renewable resources must match demand instantly. Operators constantly monitor conditions and adjust the system to maintain stability.</p><p>Advanced forecasting helps predict demand hours and days ahead, while real-time tools ensure that supply can flex as conditions change. Renewable energy introduces new challenges because wind and solar output can vary significantly. Still, Gridwell integrates these resources carefully to maximize efficiency and sustainability.</p><p>The public rarely sees these operations, but they are essential. Without constant monitoring and rapid adjustments, even small mismatches between supply and demand could cascade into large-scale outages. The control room is where science, technology, and people come together to keep electricity flowing reliably to millions of homes and businesses.</p></div>
+        <div class="ck-content"><p>Every transaction Gridwell Financial processes passes through layers of routing, authorization, fraud screening, and settlement — typically in under two seconds. Behind the scenes, our systems are constantly verifying card details, checking for risk signals, and routing approvals through the right card networks before sending the answer back to the terminal.</p><p>This work is invisible when it goes well, which is exactly the point. Merchants see an approval, customers walk out with their purchase, and the funds settle to the merchant's account the next business day. None of that happens by accident. It happens because operators, engineers, and risk specialists are watching transaction flows around the clock and ready to act when something looks unusual.</p><p>The public rarely sees these operations, but they're what makes modern commerce feel effortless. Whether you're tapping a card at a coffee shop or checking out from an online store, the same systems are working in the background to make sure your payment goes through, your money lands where it should, and your data stays safe.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: "Every second, Texas’s electric grid is in constant motion, balancing the power that’s generated with the power that’s consumed. This delicate process requires advanced tools, real-time monitoring, and quick decision-making. While most Texans only notice when something goes wrong, the reality is that a vast amount of work happens behind the scenes to keep things running smoothly. This article takes you inside the control room."
+      Value: Every second of every day, Gridwell Financial's payment systems are in motion, routing, authorizing, and settling transactions for thousands of Canadian businesses. Most merchants only notice when something goes wrong, but a tremendous amount of work happens behind the scenes to keep payments flowing smoothly. This article takes you inside the operations center.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: "Gridwell continuously balances electricity supply and demand to keep the power grid stable and reliable. Using advanced forecasting, real-time monitoring, and expert operators, Gridwell ensures that generation resources match demand every second—integrating renewables while preventing outages across Texas."
+      Value: Gridwell Financial processes thousands of transactions every second, routing, authorizing, and settling payments in under two seconds. Learn how our systems and operators keep Canadian commerce running smoothly around the clock.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0049b2ff-56ca-4ef9-b023-9459c94807aa"
+      Value: "02b9ede7-8fa5-4d83-b724-ca0d91913079"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "Behind the Scenes: How Gridwell Balances Supply and Demand"
+      Value: "Behind the Scenes: How Gridwell Financial Processes Your Transactions"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090606Z
+      Value: 20260502T151352Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: "Behind the Scenes: How Gridwell Balances Supply and Demand"
+      Value: "Behind the Scenes: How Gridwell Financial Processes Your Transactions"
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: Gridwell grid operations, supply and demand balancing, electricity grid management, power grid reliability, grid control room, energy forecasting, renewable integration
+      Value: Gridwell Financial operations, payment processing, transaction routing, authorization, settlement, fraud screening, payment infrastructure

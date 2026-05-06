@@ -31,15 +31,14 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
-      Value: |
-        <link linktype="external" url="#" text="Grid Status"/>
+      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Support', 'title': '', 'url': '#'}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a536b069-e641-42a2-ab75-6f304f09b7e7"
+      Value: "335859f9-9468-4de2-b26a-1f823c5e3cdb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\jeral.sandeeptha@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260113T123756Z
+      Value: 20260502T145847Z

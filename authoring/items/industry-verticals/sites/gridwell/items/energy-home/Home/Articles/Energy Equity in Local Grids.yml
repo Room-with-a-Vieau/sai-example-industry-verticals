@@ -38,7 +38,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Energy equity plays a critical role in ensuring that communities have access to affordable and reliable electricity. This article examines how hydropower generation, balanced local markets, and energy storage systems work together to manage supply and demand, protect consumers from volatility, and support fair energy access across the grid.
+      Value: "Payment equity matters because not every Canadian business has the same access to affordable, modern commerce tools. This article examines how transparent pricing, accessible onboarding, and bilingual support help level the field for small, rural, and newcomer-owned businesses across the country."
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095342Z
@@ -48,29 +48,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Hydropower plants remain cornerstones of renewable energy generation worldwide. Local markets balance supply and demand, keeping costs fair for consumers. Energy storage systems provide backup power when demand surges or supply falters.</p></div>
+        <div class="ck-content"><p>Access to affordable, modern payment infrastructure isn't evenly distributed. Small businesses in rural communities, newcomer-owned shops, and micro-merchants often face higher fees, fewer options, and less support than larger urban competitors. Gridwell Financial believes that's a problem worth solving — and one we're tackling through pricing transparency, plain-language onboarding, and bilingual support across English and French.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: Hydropower plants remain cornerstones of renewable energy generation worldwide. Local markets balance supply and demand, keeping costs fair for consumers. Energy storage systems provide backup power when demand surges or supply falters.
+      Value: Affordable payment infrastructure isn't equally available to every Canadian business. Smaller and newer merchants often pay more for less. This article looks at what payment equity means in practice and how Gridwell Financial is working to close the gap.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Energy Equity in Local Grids
+      Value: Payment Equity in Local Markets
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2bee2118-5ff6-4ab3-bb9c-affa40d93dd8"
+      Value: "4e8b9540-9c65-4565-b3d6-979ba7511b79"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Energy Equity in Local Grids
+      Value: Payment Equity in Local Markets
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090606Z
+      Value: 20260502T151232Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Energy Equity in Local Grids
+      Value: Payment Equity in Local Markets
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: energy equity, local grids, hydropower, energy storage, electricity markets, grid affordability, Gridwell market analysis
+      Value: payment equity, small business payments, fair pricing, accessible commerce, Gridwell Financial market analysis

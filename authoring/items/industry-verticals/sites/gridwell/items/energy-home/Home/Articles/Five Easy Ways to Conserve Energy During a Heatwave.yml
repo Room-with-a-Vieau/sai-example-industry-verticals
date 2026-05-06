@@ -38,7 +38,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Heatwaves drive sharp increases in electricity demand, largely due to cooling systems and household appliances. This article explains five easy ways Texans can conserve energy during extreme heat, reduce household costs, and support grid reliability by shifting usage, adjusting thermostats, and making small changes that add up across millions of homes.
+      Value: "Payment processing fees can chip away at margins as transaction volume grows. This article explains five easy ways merchants can lower their effective processing rate, optimize their pricing plan, encourage lower-cost payment methods, and review monthly statements for hidden fees that add up across thousands of transactions a year."
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095400Z
@@ -48,29 +48,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Heatwaves cause electricity usage to surge, particularly due to air conditioning and other cooling appliances. By making small adjustments, Texans can reduce this surge and help keep the grid reliable. For example, raising the thermostat by just two or three degrees reduces strain on both the grid and the household system without sacrificing much comfort.</p><p>In addition to thermostat adjustments, delaying heavy appliance use until after 8 p.m. makes a measurable difference. Dishwashers, washing machines, and dryers are among the most power-hungry devices in the home. By shifting their use, Texans help flatten demand during the most critical hours. Closing blinds and using fans strategically also helps keep indoor temperatures comfortable without extra electricity.</p><p>These small steps don’t just help Gridwell manage demand—they save families money. Energy conservation during peak demand periods lowers household costs and improves community resilience. When combined across millions of homes, these individual actions can be the difference between smooth operation and rolling outages.</p></div>
+        <div class="ck-content"><p>Payment processing fees can quietly eat into your margins, especially as your transaction volume grows. By understanding how interchange, assessment, and processor markup combine into your effective rate, you can identify where savings are possible. For example, ensuring you're on the right pricing plan for your transaction mix can immediately lower your costs without changing how you operate.</p><p>In addition to plan optimization, encouraging customers to use lower-cost payment methods like Interac Debit can make a measurable difference. Properly categorizing your business and keeping your terminal software up to date can also help qualify transactions for the lowest possible rates. Reviewing your monthly statement and questioning unfamiliar fees is a simple habit that pays dividends.</p><p>These small steps don't just lower your costs — they free up cash to reinvest in your business. Lower processing fees mean better margins, more competitive pricing, and the ability to grow on your own terms. When combined across thousands of transactions a year, these adjustments can translate into significant annual savings.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: Heatwaves put a tremendous strain on Texas’s power grid, especially during peak hours when demand is at its highest. Simple actions at home can help lower demand while also keeping utility bills in check. Many households are surprised to learn how small changes can have such a big impact when multiplied across millions of Texans. This article highlights five easy, practical tips you can use today.
+      Value: Payment processing fees add up quickly, especially during peak sales periods. Simple changes to how you accept payments can help lower your effective rate and keep more revenue in your business. Many merchants are surprised to learn how small adjustments can have such a big impact over thousands of transactions. This article highlights five easy, practical tips you can use today.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Five Easy Ways to Conserve Energy During a Heatwave
+      Value: Five Easy Ways to Reduce Payment Processing Fees
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3fe43aeb-40e9-4471-8e82-3e009be3f02f"
+      Value: "26dc232a-2f51-4076-9863-2e2e1398364f"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Five Easy Ways to Conserve Energy During a Heatwave
+      Value: Five Easy Ways to Reduce Payment Processing Fees
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T090606Z
+      Value: 20260502T150525Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Five Easy Ways to Conserve Energy During a Heatwave
+      Value: Five Easy Ways to Reduce Payment Processing Fees
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: energy conservation, heatwave energy tips, reduce electricity use, peak demand, Gridwell energy tips, summer energy savings
+      Value: payment processing fees, lower merchant fees, interchange rates, processor markup, save on payments, Gridwell Financial tips

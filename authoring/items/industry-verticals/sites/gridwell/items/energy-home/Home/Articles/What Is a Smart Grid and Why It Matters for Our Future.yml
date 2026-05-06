@@ -38,7 +38,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Find out how Gridwell’s smart grid technology is reshaping energy delivery—making power cleaner, more reliable, and more efficient than ever.
+      Value: Find out how Gridwell Financial's omnichannel POS technology is reshaping retail — making commerce faster, more connected, and more efficient than ever for businesses of every size.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095615Z
@@ -48,29 +48,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p data-start="3680" data-end="3955">Energy grids are evolving, and Gridwell is driving that transformation. A “smart grid” uses digital technology to monitor, predict, and optimize energy use in real time. The result? Less waste, fewer outages, and more efficient delivery of renewable power.</p><p data-start="3957" data-end="4283">By modernizing the grid, Gridwell ensures that clean energy gets where it’s needed most—without overloading the system or relying on outdated infrastructure. Smart grids also give customers more control, allowing them to track usage and reduce costs. It’s innovation that benefits everyone, from homeowners to entire cities.</p></div>
+        <div class="ck-content"><p data-start="3680" data-end="3955">Commerce is evolving, and Gridwell Financial is driving that transformation. An “omnichannel POS” uses connected technology to monitor, process, and unify sales across in-store, online, and mobile channels in real time. The result? Less manual work, fewer inventory errors, and faster checkout for your customers.</p><p data-start="3957" data-end="4283">By modernizing point-of-sale systems, Gridwell Financial ensures that every sale is captured, every customer is recognized, and every channel works together — without relying on outdated, disconnected tools. Omnichannel POS systems also give business owners more control, allowing them to track performance and make smarter decisions. It's innovation that benefits everyone, from solo entrepreneurs to nationwide retailers.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: Smart grids use data and automation to improve reliability and efficiency. Learn how this technology is reshaping energy distribution and consumption.
+      Value: "Omnichannel POS systems use data and automation to unify in-store and online sales. Learn how this technology is reshaping retail and the customer experience."
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Find out how Gridwell’s smart grid technology is reshaping energy delivery—making power cleaner, more reliable, and more efficient than ever.
+      Value: Find out how Gridwell Financial's omnichannel POS technology is reshaping retail — making commerce faster, more connected, and more efficient than ever.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d4d26504-103f-456b-a827-eaf41cc83d45"
+      Value: "555115f5-41fa-4bee-a817-a1587f4d7378"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: What Is a Smart Grid and Why It Matters for Our Future
+      Value: What Is an Omnichannel POS and Why It Matters for Our Future
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T092037Z
+      Value: 20260502T150619Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Understanding Smart Grids | Gridwell’s Vision for Clean Energy Infrastructure
+      Value: Understanding Omnichannel POS | Gridwell Financial's Vision for Connected Commerce
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: what is a smart grid, smart energy systems, future of electricity, renewable energy infrastructure
+      Value: what is omnichannel POS, unified commerce systems, future of retail, modern point of sale infrastructure

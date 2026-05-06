@@ -22,7 +22,7 @@ Languages:
     - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
       Hint: Description
       Value: |
-        <div class="ck-content"><p>Real-time grid monitoring, intelligent forecasting, and proactive energy management.</p></div>
+        <div class="ck-content"><p>Accept payments anywhere — in-store, online, or on the go — with Canada's leading commerce solutions provider.</p></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260115T111502Z
@@ -36,22 +36,20 @@ Languages:
         sitecore\tharuka.bandara@sitecore.com
     - ID: "84a164f4-8b3e-45e1-a4ca-fa4c0de72666"
       Hint: SecondaryCtaLink
-      Value: |
-        <link linktype="external" url="#" target="" text="Learn more" title="" class=""/>
+      Value: "{'href': 'http://#', 'linktype': 'external', 'url': '#', 'target': '', 'text': 'Talk to Sales', 'title': '', 'class': ''}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e0c6451a-fad7-4614-a8dd-6e0e62097d81"
+      Value: "ea539471-22c5-48dd-8aff-959c1d0f2a5e"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
-      Value: Texas Grid Operations Made Simple
+      Value: Commerce Made Simple
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260205T091855Z
+      Value: 20260502T151136Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
-      Value: |
-        <link linktype="internal" id="b13e8079-034f-48a5-9b12-9b28f64e1224" anchor="" querystring="" target="" class="" text="View Grid Status" title=""/>
+      Value: "{'linktype': 'internal', 'id': 'b13e8079-034f-48a5-9b12-9b28f64e1224', 'anchor': '', 'querystring': '', 'target': '', 'class': '', 'text': 'Explore Products', 'title': '', 'href': '/Grid-Status'}"

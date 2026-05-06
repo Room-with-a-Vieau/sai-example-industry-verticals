@@ -21,7 +21,7 @@ Languages:
     - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
       Hint: Image
       Value: |
-        <image mediaid="f59bdf13-6fe6-4b4b-b80f-cddb7f79b8b2" />
+        <image mediaid="727167d1-6a31-428c-a04b-1453b30b4f75" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -32,11 +32,11 @@ Languages:
         <link linktype="internal" id="9b577491-9b01-4fe5-a4a1-ba193bb3bf81" anchor="" querystring="" target="" class="" text="" title=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "938618ba-3ec6-48bf-bc42-8c96264e2da1"
+      Value: "37e3f2c8-a6b4-44f7-893b-ede13e3f1e37"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\neli.kostadinova@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251215T091457Z
+      Value: 20260504T184800Z
