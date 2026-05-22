@@ -3,11 +3,22 @@ ID: "3c61dc91-c290-4fee-bf8e-ad63f3b8dd38"
 Parent: "83c12fa8-5dce-4d93-acd0-80a51fa1dd1f"
 Template: "08213afb-9cb4-4c1f-a5da-865b9a095601"
 Path: "/sitecore/content/industry-verticals/gridwell/Data/Promo/Gridwell Advance"
+SharedFields:
+- ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
+  Hint: PromoImageOne
+  Value: |
+    <image mediaid="3e1795eb-9d51-41d2-9e53-cafae5a70fe7" alt="Mobile phone in hand" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "84a56625-21d6-496b-bea5-ca6e69da466d"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260505T213827Z
@@ -32,14 +43,14 @@ Languages:
       Value: Gridwell Advance
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8105bf18-bf1c-4576-9f48-b56b193ddf2c"
+      Value: "e060162f-727f-4cad-853c-cbe4c86ee1ff"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260505T213827Z
+      Value: 20260521T214329Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: Get the funding to take your business to the next level.

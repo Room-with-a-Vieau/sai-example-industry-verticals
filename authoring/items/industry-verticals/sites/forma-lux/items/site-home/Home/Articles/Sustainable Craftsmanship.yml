@@ -1,0 +1,220 @@
+﻿---
+ID: "e2654e94-d2ea-4386-8068-6517be4516fb"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Sustainable Craftsmanship"
+SharedFields:
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="f042434f-637a-4470-957d-9caa7dcc9b30" />
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "Lumina Circular Living|Forma Lux|Sustainable Craftsmanship|Circular Design|Timeless Design|Eco-Friendly Lighting|Circular Economy|Artisan-Made Lighting"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8F6E427A-6B15-474C-AFF6-BD1D2B9C5736}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "64ee59c2-b4d4-4d6a-a72a-c8eb7fb16b4f"
+Languages:
+- Language: en
+  Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "e20f8b7e-7b96-409b-aea3-a66534fc6ea2"
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Lumina Circular Living: Forma Lux’s New Standard in Sustainable Craftsmanship"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260514T155010Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sustainable Craftsmanship
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b8b16ca-3d6a-41cc-8c7a-a3bb636b5100"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: Sustainable Craftsmanship
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260514T155010Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{977499AB-E449-4900-9FA8-07B7BA2184A8}"
+              p:before="*"
+              s:ds="local:/Data/lumina-circular-living-hero-banner"
+              s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
+              s:par="DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{8E6D4920-0E52-4D5E-B455-AD7C026EB551}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/lumina-circular-living-article-body"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: |
+        Lumina Circular Living launches Forma Lux’s commitment to sustainable craftsmanship and timeless design, featuring repairable components, recycled and responsibly sourced materials, and artisan partnerships.
+        
+        Lumina Circular Living reframes lighting as a long-term investment—one built on repairable design, traceable materials, and artisan skill.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260514T155041Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Lumina Circular Living
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <h2>Introduction</h2>
+        <p>Lumina Circular Living marks Forma Lux’s new chapter: a launch that marries sustainable craftsmanship with timeless design. The collection showcases lighting that’s engineered for longevity, repaired rather than replaced, and crafted from responsibly sourced or recycled materials—so beautiful they become heirlooms.</p>
+        
+        <h2>Why Lumina Circular Living Matters</h2>
+        <p>In a market saturated with fast-fashion décor, Lumina Circular Living stakes a clear position: design should be durable, materials should be traceable, and products should re-enter the material economy. This approach reduces waste, supports artisan communities, and encourages mindful consumption.</p>
+        
+        <h2>The Collection at a Glance</h2>
+        <ul>
+          <li><strong>Signature pieces:</strong> Arc Halo Pendant, Solace Table Lamp, and Meridian Floor Light—each conceived with modular components for easy repair and upgrade.</li>
+          <li><strong>Materials:</strong> reclaimed brass, recycled glass, FSC-certified oak, and low-impact textile cords.</li>
+          <li><strong>Production:</strong> small-batch fabrication with local artisan partners to minimize transportation emissions and keep craft techniques alive.</li>
+        </ul>
+        
+        <h2>Materials &amp; Circularity: How It Works</h2>
+        <ol>
+          <li><strong>Sourcing with Intent:</strong> Every material in Lumina Circular Living is vetted for environmental impact and circular potential. Reclaimed metal and post-consumer glass are prioritized to preserve virgin resources.</li>
+          <li><strong>Design for Disassembly:</strong> Fixtures are engineered so components can be separated, repaired, and recycled. Fasteners are standardized and parts are labeled to simplify maintenance.</li>
+          <li><strong>Takeback &amp; Repair:</strong> Forma Lux offers a takeback program and in-house repair services to extend product life—reducing landfill waste while keeping materials in circulation.</li>
+        </ol>
+        
+        <h2>Product Storytelling: Meet Three Pieces</h2>
+        <h3>Arc Halo Pendant — The Heirloom Fixture</h3>
+        <p>Inspired by traditional glassblowing and contemporary minimalism, the Arc Halo Pendant pairs a hand-blown recycled glass diffuser with a machined reclaimed-brass canopy. Each pendant shows subtle variations from artisan techniques—small fingerprints of craft that make each piece unique. Designed with a replaceable diffuser and standardized canopy hardware, the Arc Halo is meant to be lovingly serviced over decades.</p>
+        
+        <h3>Solace Table Lamp — Quiet Function, Lasting Form</h3>
+        <p>The Solace Table Lamp is an exercise in restraint: a warm, dimmable LED core, an FSC-oak base, and an aluminum body that resists corrosion. The lamp’s LED module is user-replaceable and sold separately, so core components can be upgraded without discarding the fixture.</p>
+        
+        <h3>Meridian Floor Light — Modular by Design</h3>
+        <p>The Meridian Floor Light introduces a modular stem system—choose your height, shade, and base. If you move or your tastes change, swap only the head or base. A repair-focused manual and spare part kits ensure longevity.</p>
+        
+        <h2>Craft &amp; People: The Human Side of Sustainability</h2>
+        <p>Forma Lux partners with regional artisans for metalwork, glassblowing, and joinery. These collaborations protect craft traditions and create transparent supply chains where worker conditions and materials are visible and verifiable.</p>
+        
+        <h2>Design for Longevity: Timeless Aesthetics</h2>
+        <p>Rather than follow seasonal trends, Lumina Circular Living favors proportion, material honesty, and restrained finishes. Timeless design reduces the impulse to replace and increases the likelihood a piece will be passed down.</p>
+        
+        <h2>Care, Repair &amp; Ownership</h2>
+        <p>Practical guidance encourages owners to maintain fixtures: cleaning protocols for recycled glass, tightening schedules for mechanical fasteners, and easy replacement guides for LED modules. Forma Lux offers repair tutorials, spare-part kits, and an online booking system for professional service.</p>
+        
+        <h2>Measuring Impact: Transparency &amp; Certifications</h2>
+        <p>Forma Lux provides material disclosures for each product, projected lifecycle carbon estimates, and third-party certifications where applicable. For readers who want to learn more about circular design principles, we recommend the <a href="https://www.ellenmacarthurfoundation.org" rel="noopener noreferrer">Ellen MacArthur Foundation</a>.</p>
+        
+        <h2>Where to See It &amp; How to Buy</h2>
+        <p>Lumina Circular Living is available on the <a href="https://formalux.com/collections/lumina-circular-living" rel="noopener noreferrer">Forma Lux site</a> and selected showrooms. Limited-edition runs and made-to-order options are offered to avoid overproduction.</p>
+        
+        <h2>Visuals &amp; Content Assets (for web and social)</h2>
+        <ul>
+          <li><strong>Hero photography:</strong> warm, lifestyle imagery of key pieces in lived interiors.</li>
+          <li><strong>Product close-ups:</strong> texture, joinery, and artisan hands at work.</li>
+          <li><strong>Short craft videos (30–60s):</strong> glassblowing and metalwork highlights.</li>
+          <li><strong>Infographic:</strong> “Materials &amp; End-of-Life Options” showing how each component can be reused, repaired, or recycled.</li>
+          <li><strong>Lifecycle diagram:</strong> manufacturing → use → repair → takeback → recycling.</li>
+        </ul>
+        
+        <h2>SEO &amp; Content Tips</h2>
+        <ul>
+          <li>Target primary keywords naturally (see keywords below).</li>
+          <li>Use structured data for product pages (<code>schema.org/Product</code>) to surface sustainability attributes: material, repairability, and takeback options.</li>
+          <li>Cross-link blog to product pages, repair guides, and the landing page for Lumina Circular Living.</li>
+        </ul>
+        
+        <h2>Suggested Internal &amp; External Links</h2>
+        <h3>Internal</h3>
+        <ul>
+          <li><a href="https://formalux.com/collections/lumina-circular-living" rel="noopener noreferrer">Collection</a></li>
+          <li><a href="https://formalux.com/repair" rel="noopener noreferrer">Repair &amp; Care Guides</a></li>
+        </ul>
+        <h3>External</h3>
+        <ul>
+          <li><a href="https://www.ellenmacarthurfoundation.org" rel="noopener noreferrer">Circular economy resources</a></li>
+        </ul>
+        
+        <h2>Conclusion</h2>
+        <p>Lumina Circular Living is more than a collection—it’s a design philosophy that rethinks resource use and celebrates the people who make objects by hand. By prioritizing repairability, traceable materials, and timeless aesthetics, Forma Lux offers lighting that’s made to stay in our homes for generations.</p>
+        
+        <h2>Explore the Collection</h2>
+        <p><a href="https://formalux.com/collections/lumina-circular-living" rel="noopener noreferrer">Explore the Lumina Circular Living collection</a>, join the waitlist for limited editions, or book a repair consultation.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Discover Lumina Circular Living by Forma Lux—lighting that combines sustainable craftsmanship and timeless design. Learn about materials, repair programs, and artisan stories.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0bfa3bce-6c29-45d0-aa00-963c409df690"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Lumina Circular Living: Forma Lux’s New Standard in Sustainable Craftsmanship"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260514T155041Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260514T155233Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: "Lumina Circular Living: Forma Lux’s New Standard in Sustainable Craftsmanship"
+    - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
+      Hint: metadataKeywords
+      Value: |
+        Lumina Circular Living
+        Forma Lux
+        sustainable craftsmanship
+        circular design
+        timeless design
+        eco-friendly lighting
+        circular economy
+        artisan-made lighting

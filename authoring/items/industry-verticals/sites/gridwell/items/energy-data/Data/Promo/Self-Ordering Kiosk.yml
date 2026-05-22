@@ -7,10 +7,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <image mediaid="93eeb76a-fc53-4bb0-ab49-7adf162b9982" />
+    <image mediaid="4874668c-337c-4931-a08b-f3c17824b2af" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "983fcfc8-7b9a-4082-b8a5-d12ea183a74c"
+  Value: "fc67bf19-3ffe-4ff6-8f56-5945c1d68d51"
 Languages:
 - Language: en
   Versions:
@@ -43,14 +43,14 @@ Languages:
       Value: "Self-Ordering Kiosk"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e6662064-1a64-4bf1-8eef-8b5761f378f7"
+      Value: "2ce31c6e-e0d6-415a-b446-e4fa8e48bcee"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260505T210434Z
+      Value: 20260521T214116Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: "Speed up service with a self-ordering kiosk for restaurants."
