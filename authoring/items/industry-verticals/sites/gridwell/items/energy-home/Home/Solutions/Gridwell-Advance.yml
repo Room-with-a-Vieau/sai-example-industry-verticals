@@ -1,0 +1,104 @@
+﻿---
+ID: "7ca204c0-cfc7-46a5-a784-b9727b49ff5c"
+Parent: "40780ceb-6f3f-4623-bf07-344cfeb39c53"
+Template: "f6e44a9e-074a-4865-987e-0c2dc00b7af5"
+Path: "/sitecore/content/industry-verticals/gridwell/Home/Solutions/Gridwell-Advance"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C2B37420-0EC0-4022-A11C-660859B9482B}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DDBB6742-B0FC-4463-8ABF-2CB5C4E7E664}"
+              p:before="*"
+              s:ds="3c61dc91-c290-4fee-bf8e-ad63f3b8dd38"
+              s:id="{CCD11802-22A3-462F-92FC-821515E2AEC8}"
+              s:par="DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{DEA2104E-32EC-4A6E-A795-1C2EC7412BDA}"
+              p:after="r[@uid='{DDBB6742-B0FC-4463-8ABF-2CB5C4E7E664}']"
+              s:ds="local:/Data/RichText"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{C830FB05-CBEF-429C-8658-869949E0F128}"
+              p:after="r[@uid='{DEA2104E-32EC-4A6E-A795-1C2EC7412BDA}']"
+              s:ds="local:/Data/RichText-HowItWorks"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{EC314DE7-D8D9-4AB6-8271-95A6E44042FF}"
+              p:after="r[@uid='{C830FB05-CBEF-429C-8658-869949E0F128}']"
+              s:ds="local:/Data/RichText-UseCases"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=4"
+              s:ph="headless-main" />
+            <r
+              uid="{B5266A11-2AC1-4923-873E-A07C3ADDD2BE}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/RichText-FAQ"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="DynamicPlaceholderId=5"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260505T213357Z
+    - ID: "2f1d30bc-161c-4474-8c72-c959c64a77d3"
+      Hint: metadataTitle
+      Value: Gridwell Advance | Merchant Cash Advance for Canadian Small Businesses
+    - ID: "30b20e46-ce60-4993-a2d3-778a61e77331"
+      Hint: ShortDescription
+      Value: A merchant cash advance program that helps eligible Canadian businesses access up to $50,000 in funding, repaid automatically as a percentage of every sale.
+    - ID: "44690751-4b7b-4d8f-a4d5-06af6ce0ff68"
+      Hint: metadataKeywords
+      Value: merchant cash advance, small business funding, Gridwell Advance, business financing Canada
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Gridwell-Advance"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "61dc9244-b7fd-404a-955f-0a073109276b"
+      Hint: metadataDescription
+      Value: Gridwell Advance is a merchant cash advance program offering eligible Canadian businesses up to $50,000 in funding, with automatic repayment as a percentage of sales. Fast, simple, and backed by expert support.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cc99651-90b9-4f3b-9009-6cc63a816eed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
+      Hint: Title
+      Value: Gridwell Advance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260505T214107Z
+    - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
+      Hint: pageSummary
+      Value: Get the funds your business needs to take its next big step. Gridwell Advance offers eligible Canadian businesses up to $50,000 in cash advance funding, repaid automatically as a percentage of each sale.

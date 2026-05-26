@@ -1,0 +1,110 @@
+﻿---
+ID: "3623d6c4-7f06-481a-abc8-7e4d0822094e"
+Parent: "e9a6e6f8-3dd6-4664-a6e0-1923816f94c6"
+Template: "412bf445-b1a6-4aff-8054-0b21a1febc47"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/Articles/Warm-Brown-Vintage-Circularity"
+SharedFields:
+- ID: "5f90c361-338c-4896-b022-11dafa5c2241"
+  Hint: PublishedDate
+  Value: "2026-05-14"
+- ID: "61dfb6ba-1cd3-42ec-97d7-75ca2522920c"
+  Hint: ogImage
+  Value: |
+    <image mediaid="{8639D59B-ACFD-4239-A1B9-1320EBE2D939}" alt="Warm brown living room with leather sofa" />
+- ID: "7f7ef9d5-f278-4bfe-94fb-c4be7894feb5"
+  Hint: Image
+  Value: |
+    <image mediaid="{8639D59B-ACFD-4239-A1B9-1320EBE2D939}" alt="Warm brown living room with leather sofa" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-150"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B31063EA-B4CD-44ED-9B08-335ECF198376}" />
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "add1a925-3408-4b40-8605-f63ce51a5dd2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260514T184813Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Warm-Brown-Vintage-Circularity"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f239b603-2477-4472-bb0a-11637e2a9f60"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "Warm-Brown-Vintage-Circularity"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260514T184813Z
+  - Version: 2
+    Fields:
+    - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
+      Hint: pageSummary
+      Value: Warm browns, vintage character, and a circular approach to furniture—how to create spaces with depth and keep pieces in use longer.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260514T185050Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Warm-Brown-Vintage-Circularity"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
+      Hint: Content
+      Value: |
+        <div class="ck-content"><p><strong>Warmth is back.</strong> From chocolate-toned woods to cognac leathers, designers are embracing richer palettes and pieces with history. At the same time, there’s a new way to own furniture: buy better, care longer, and keep great pieces in use through repair, refurbish, and resale. Here’s how to bring the look—and the mindset—home.</p><h3>Why warm brown now?</h3><ul><li><strong>Depth and contrast:</strong> Chocolate and saddle stains add dimension next to linens, stone, and brass.</li><li><strong>Easy to live with:</strong> Low-sheen finishes and patina-friendly materials wear in, not out.</li><li><strong>Timelessness:</strong> Browns play well with both modern profiles and heritage details.</li></ul><h3>Materials that make the look</h3><ul><li><strong>Woods with character:</strong> Oak and ash take beautifully to warm stains that highlight grain; walnut’s natural brown base delivers instant richness.</li><li><strong>Leathers with life:</strong> Anilines and soft semi‑anilines in chocolate, chestnut, and cognac develop a graceful patina over time.</li><li><strong>Textures that layer:</strong> Chenille, tweed, and bouclé in taupe‑to‑espresso tones add depth without noise.</li></ul><h3>Blending new and vintage</h3><ul><li><strong>Start with one anchor:</strong> A vintage cabinet, dining table, or accent chair sets the tone; build around it with clean, warm‑stained pieces.</li><li><strong>Mix eras with intention:</strong> Pair rounded mid‑century silhouettes with slender modern frames and aged brass accents.</li><li><strong>Celebrate patina:</strong> Small imperfections read as authenticity—style with simple, high‑quality basics so character can shine.</li></ul><h3>A circular way to furnish</h3><ul><li><strong>Buy better:</strong> Choose solid construction, repairable finishes, and standardized parts where possible.</li><li><strong>Care easily:</strong> Touch‑up kits, replaceable cushion covers, and straightforward hardware keep pieces fresh.</li><li><strong>Keep pieces in play:</strong> When you’re ready for a change, opt for trade‑in, refurbishment, or certified resale to extend a product’s life.</li></ul><h3>How to style the palette at home</h3><ul><li><strong>Living room:</strong> Chocolate‑stained media console, espresso leather lounge chair, and a linen sofa—anchored with brass floor lighting.</li><li><strong>Dining:</strong> Walnut or warm‑stained ash table, mid‑century chairs with tweed slip seats, and a vintage credenza.</li><li><strong>Bedroom:</strong> Saddle‑stained nightstands beside a natural linen headboard; add aged bronze hardware for cohesion.</li></ul><h3>Care tips to make it last</h3><ul><li><strong>Keep it low‑sheen:</strong> Wipe with a soft cloth; avoid high‑gloss polishes that show fingerprints on darker tones.</li><li><strong>Protect and refresh:</strong> Use felt pads under accessories; blend shallow scratches with color‑matched touch‑up kits.</li><li><strong>Rotate and revive:</strong> Fluff cushions, rotate seats, and replace covers when needed to keep the profile crisp.</li></ul><p><em>Warmth that lasts:</em> that’s the heart of this movement. Thoughtful materials, a taste for vintage, and a circular approach add soul to your space—and keep furniture in use, not in the landfill.</p></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
+      Hint: ShortDescription
+      Value: Warm browns, vintage character, and a circular approach to furniture—how to create spaces with depth and keep pieces in use longer.
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: Embrace the return of warm browns and a circular way to furnish. Learn how to mix chocolate‑toned woods, leather, and vintage pieces—and how care, repair, and resale keep great furniture in use longer.
+    - ID: "844baf54-2f0e-42a5-8cab-5f596ea60c3e"
+      Hint: ReadTime
+      Value: 6 min
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15e89317-15a1-40d4-8322-89e006da3a3b"
+    - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
+      Hint: Title
+      Value: "The Brown Renaissance: Vintage Soul, Circular Living"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260514T185050Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260514T190939Z
+    - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
+      Hint: metadataTitle
+      Value: "The Brown Renaissance: How to Style Warm Browns, Vintage Finds, and Circular Living"

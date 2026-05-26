@@ -1,0 +1,34 @@
+﻿---
+ID: "06396b98-7e96-4b7d-9984-13342bd6895a"
+Parent: "fe66620d-1a0b-40ae-b327-95d0057173e6"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/industry-verticals/skywings/Home/weddings/Data/InquireSection"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260504T225526Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: "<h2>Begin Planning Your Wedding</h2><p>Our wedding events team is here to answer your questions, share availability, and help you imagine your celebration in our spaces. Reach out to schedule a private tour or request more information about pricing and packages.</p><p><strong>Email:</strong> weddings@example.com<br/><strong>Phone:</strong> (212) 555-0100</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bad2b49e-4c3c-4d32-a5ed-3ca20fd608da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260504T225526Z

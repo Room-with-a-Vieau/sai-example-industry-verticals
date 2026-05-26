@@ -1,0 +1,35 @@
+﻿---
+ID: "8566c309-5842-4bf1-9f23-8d341341eb27"
+Parent: "81f2f81b-11c2-4264-9a11-d28c86f14f0b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/industry-verticals/gridwell/Home/Solutions/Gridwell-Advance/Data/RichText-HowItWorks"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260505T214006Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h2>How Gridwell Advance works</h2><p>From first conversation to funded account, the process is built to be straightforward. Here's what to expect.</p><h3>1. Check your eligibility</h3><p>Connect with a Gridwell funding specialist to confirm whether your business qualifies. We look at your sales history with us, not just your credit score, so the door is open even if traditional bank financing has been a struggle.</p><h3>2. Receive your offer</h3><p>If you're eligible, we'll share a pre-approved funding amount along with the one-time fee and repayment percentage. Everything is laid out in plain language so there are no surprises.</p><h3>3. Sign and submit</h3><p>Once you accept the terms, your specialist sends over a short application to sign electronically. There's no mountain of paperwork and no collateral required.</p><h3>4. Get funded fast</h3><p>After review and approval, funds are typically deposited into your business account within three business days — often in less than 72 hours.</p><h3>5. Repay automatically as you sell</h3><p>A small, agreed-upon percentage is taken from each sale you process through Gridwell until the advance is fully repaid. There are no due dates to track and no penalty for paying it down faster on a strong sales week.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c18a5aa6-6b24-4e57-85aa-a36796bbe8cd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260505T214021Z
