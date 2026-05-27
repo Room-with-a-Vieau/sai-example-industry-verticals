@@ -1,0 +1,58 @@
+﻿---
+ID: "388bf9ea-6d37-49c6-83cb-fe690ed91a24"
+Parent: "11de8d97-8975-4999-b30d-930ffc3bba70"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/About Us/FAQ"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CF1F45A6-B535-4899-BEAE-539AD2661383}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
+      Hint: metadataKeywords
+      Value: "AuthorHouse FAQ, self-publishing questions, publishing process, book rights, AuthorHouse support"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260526T194811Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: Frequently Asked Questions | AuthorHouse
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FAQ
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "581d7a02-ce94-4a73-9add-258867a8b60f"
+      Hint: Content
+      Value: |
+        <h2>About AuthorHouse</h2><h3>Who is AuthorHouse?</h3><p>AuthorHouse is the leading provider of supported self-publishing services for authors worldwide. Since 1997, we've helped more than 70,000 authors publish more than 96,000 titles across 200 genres.</p><h3>What is supported self-publishing?</h3><p>Supported self-publishing pairs the speed and creative control of self-publishing with the professional services traditionally offered by publishing houses — editing, design, distribution, and marketing support. You keep your rights and royalties; we handle the technical complexities.</p><h2>About our plans</h2><h3>How do I know which plan is right for me?</h3><p>Start by taking our author quiz, which will recommend a plan based on your goals. You can also schedule a free consultation with a publishing consultant who will walk you through your options.</p><h3>Can I upgrade my plan after I start?</h3><p>Yes. Many authors begin with Essentials and add à la carte services or upgrade to a higher plan as their publishing journey evolves.</p><h3>What does "included" actually mean?</h3><p>Everything listed as "included" in a plan is delivered as part of the plan price — no hidden fees, no surprise charges. Optional add-on services are clearly priced separately.</p><h2>About the publishing process</h2><h3>How long does it take to publish a book?</h3><p>Most authors complete the publishing process in 4 to 9 months, depending on the plan, the complexity of the book, and how quickly the manuscript moves through editorial review. Children's books with detailed illustrations typically take longer.</p><h3>Who owns the rights to my book?</h3><p>You do. AuthorHouse never claims ownership of your manuscript or any of the rights to your book. You retain 100% of your rights and royalties.</p><h3>Where will my book be sold?</h3><p>Every AuthorHouse plan includes distribution to major retailers (Amazon, Barnes & Noble, Apple Books, Kobo) and to the Ingram catalog, which makes your book available to bookstores and libraries worldwide.</p><h2>About payments and refunds</h2><h3>Do you offer payment plans?</h3><p>Yes. Speak with a publishing consultant about payment options that fit your budget.</p><h3>What is your refund policy?</h3><p>Refund eligibility depends on which services have been delivered. Full details are provided in your publishing services agreement, and your consultant will walk you through them before you commit.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: Answers to common questions about AuthorHouse publishing plans, the publishing process, rights, distribution, and payments.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f34b01f-ecd8-4d29-bfc9-90c3439bef07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
+      Hint: pageSummary
+      Value: Common questions about AuthorHouse plans, the publishing process, rights and royalties, distribution, payments, and refunds — answered.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260526T201127Z

@@ -1,0 +1,57 @@
+﻿---
+ID: "cf38e606-54cd-4cd2-b1be-8cb1f6a042fa"
+Parent: "11de8d97-8975-4999-b30d-930ffc3bba70"
+Template: "98e60957-0783-4a9a-85cc-77dad30e9711"
+Path: "/sitecore/content/industry-verticals/forma-lux/Home/About Us/Services"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A7CB809D-8354-419E-B271-0AA3FD5AFBB1}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
+      Hint: metadataKeywords
+      Value: AuthorHouse services, developmental editing, book cover design, press release, audiobook production, copyright registration
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260526T194848Z
+    - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
+      Hint: metadataTitle
+      Value: Publishing Services | AuthorHouse
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Services
+    - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
+      Hint: Title
+      Value: Publishing Services
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "581d7a02-ce94-4a73-9add-258867a8b60f"
+      Hint: Content
+      Value: "<p>Every AuthorHouse plan is built on a foundation of core services, but every book is different. Our à la carte publishing services let you add exactly what your project needs — nothing more, nothing less.</p><h2>Editorial services</h2><ul><li><strong>Developmental editing.</strong> Deep structural feedback on story, argument, and flow.</li><li><strong>Substantive editing.</strong> Sentence- and paragraph-level work to tighten prose and clarify meaning.</li><li><strong>Proofreading.</strong> Final-pass review for typos, punctuation, and formatting issues.</li><li><strong>Manuscript critique.</strong> Professional assessment of your manuscript before you commit to a publishing plan.</li></ul><h2>Design services</h2><ul><li><strong>Custom cover design.</strong> One-of-a-kind covers designed by our in-house design team.</li><li><strong>Interior layout.</strong> Custom interior design for illustrated books, photography books, and complex layouts.</li><li><strong>Illustration coordination.</strong> Match with a children's illustrator from our network.</li></ul><h2>Marketing & publicity</h2><ul><li><strong>Press release writing & distribution.</strong> Professionally written press release distributed to relevant media outlets.</li><li><strong>Author website.</strong> Custom-designed author website with hosting and basic content management.</li><li><strong>Book trailer production.</strong> Short video trailer for your book, suitable for social media and your website.</li><li><strong>Goodreads & social media setup.</strong> Author profile creation and platform optimization across the major book-discovery platforms.</li><li><strong>Email marketing kit.</strong> Templates, list-building tools, and a launch-sequence playbook.</li></ul><h2>Distribution & rights</h2><ul><li><strong>US copyright registration.</strong> We handle the filing and paperwork with the US Copyright Office.</li><li><strong>Library of Congress Control Number (LCCN).</strong> Required for many library acquisitions.</li><li><strong>International distribution expansion.</strong> Extend your book's reach to additional international territories.</li><li><strong>Audiobook production.</strong> Professional audiobook production with experienced narrators.</li></ul><h2>Not sure where to start?</h2><p>Schedule a free consultation. We'll help you identify which services will have the biggest impact on your book's success.</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
+      Hint: metadataDescription
+      Value: "AuthorHouse à la carte publishing services: editorial, design, marketing, distribution, and rights services to customize your publishing plan."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "276c1f4f-67ef-467e-bd15-4ff0e6238ec2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\andrew.vieau@sitecore.com
+    - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
+      Hint: pageSummary
+      Value: À la carte editorial, design, marketing, distribution, and rights services from AuthorHouse — add exactly what your book needs.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260526T201122Z

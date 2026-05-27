@@ -71,7 +71,7 @@ Languages:
       Value: 
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: "A study in balance and intention, The Heart of the Room: Fireplace & Lounge captures Forma Lux’s handmade design philosophy—where every beam, textile, and curve contributes to a harmonious whole. The story unfolds in textures: reclaimed oak and iron, wool and linen, concrete and light. This piece celebrates how craftsmanship transforms raw materials into quiet luxury, evoking warmth, authenticity, and timeless comfort."
+      Value: The first impression of a book is usually a thumbnail, not a cover. This guide breaks down what works at thumbnail size, the most common cover mistakes that cost sales, and how to test a cover design before you commit.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250911T094732Z
@@ -84,38 +84,36 @@ Languages:
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
-      Value: |
-        <div class="ck-content"><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Statement Pieces That Spark Conversation</h3><p>A suspended iron light fixture draws the eye, hovering above a low-profile coffee table crafted from driftwood. Nearby, a sculptural bookshelf holds a curated mix of art, plants, and ceramics, offering both function and flair.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p></div>
+      Value: "<h3>The first thing readers see is rarely your book</h3><p>For most books, the first impression isn't the cover — it's the thumbnail of the cover, shrunk to roughly the size of a postage stamp on a phone screen. That thumbnail has to communicate genre, tone, and quality in well under a second. The covers that succeed at this aren't necessarily the prettiest ones; they're the ones designed with the thumbnail in mind from the start.</p><h3>What works at thumbnail size</h3><p>Bold, high-contrast typography. Clear focal points. Genre conventions — a thriller cover that looks like a thriller, a romance cover that looks like a romance — because readers scanning a category page are looking for cues, not surprises. A great cover doesn't have to be subtle to be sophisticated; it has to be readable at a glance.</p><h3>Common cover mistakes that cost sales</h3><p>Type that's too small or too elegant for the thumbnail. Imagery that doesn't telegraph genre (the literary fiction cover that looks like nonfiction; the sci-fi cover that looks like fantasy). Trying to fit too many visual elements into a small frame. And the most common mistake: imitating last year's bestsellers instead of looking at what's working right now in your specific subgenre.</p><h3>How to test a cover before you commit</h3><p>Build a thumbnail-sized version and put it next to ten current bestsellers in your genre. If yours blends in for the right reasons — genre cues, professional polish, clear typography — you're on the right track. If it blends in for the wrong reasons (it looks generic) or sticks out for the wrong reasons (it doesn't look like the genre), keep iterating. Most professional cover designers will provide multiple concepts; resist the urge to pick the one you personally love and instead pick the one your target reader is most likely to click on.</p>"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: |
-        This living room blends rustic charm with modern sophistication. Natural wood beams stretch across the ceiling, contrasting with sleek concrete floors for a grounded yet contemporary feel.
-        
-        Raw linen drapes frame large windows, allowing golden light to spill across reclaimed oak furniture. A woolen rug anchors the seating area, while soft cushions and layered throws invite you to sink in and stay awhile.
-        
+      Value: Most book covers are first seen at thumbnail size, on a phone screen, alongside ten competitors. Here's what makes a cover work when every pixel counts.
+    - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
+      Hint: metadataDescription
+      Value: A guide to designing book covers that work at thumbnail size — the size most readers will see first. Genre cues, typography, and common mistakes to avoid.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "01829705-022b-46e2-9a2c-7128923d73bb"
+      Value: "adf222c7-5323-4393-99c4-b185024a91f8"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "The Heart of the Room: Fireplace"
+      Value: What Makes a Book Cover Actually Sell
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082512Z
+      Value: 20260526T194958Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: "The Heart of the Room: Fireplace & Lounge | Forma Lux Journal – Handmade Design with Warmth & Craft"
+      Value: What Makes a Book Cover Actually Sell | AuthorHouse Resources
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: handmade furniture, rustic modern living room, wood design, fireplace lounge, Forma Lux interiors, sustainable materials, artisan craftsmanship, contemporary home decor
+      Value: "book cover design, book cover thumbnail, genre cover design, book cover mistakes, self-publishing cover"
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

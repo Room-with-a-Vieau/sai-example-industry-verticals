@@ -6,7 +6,7 @@ Path: "/sitecore/content/industry-verticals/forma-lux/Data/Product Reviews/Revie
 SharedFields:
 - ID: "43cdbc7e-aa68-4d04-a13b-2d027ef29368"
   Hint: Rating
-  Value: 3
+  Value: 5
 - ID: "63ff7a9b-580a-4df9-8135-6cc1fc25a489"
   Hint: ReviewImage
   Value: |
@@ -17,7 +17,7 @@ SharedFields:
     <image mediaid="{9B5D4CA0-573C-4081-AC20-EB5F24E8E6D4}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "5f6bd99f-beb4-41d1-8784-5b56933e39d2"
+  Value: "d4ab1f40-a6ff-451e-968a-fafcf839a87f"
 Languages:
 - Language: en
   Versions:
@@ -32,27 +32,27 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "52f7ed6b-3e64-453f-9499-1a7281a05dc9"
       Hint: Description
-      Value: “Forma Lux helped me express myself through my space. It’s not just furniture — it’s a lifestyle, curated with care and bold taste.”
+      Value: "“I'd been told self-publishing was a long road of figuring everything out alone. AuthorHouse gave me a team that handled the parts I didn't know how to do — and gave me the freedom to focus on the writing.”"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\isuru.bandara@sitecore.com
     - ID: "8bb0daa9-d77b-4c79-99c1-4d12e8d8a623"
       Hint: Caption
-      Value: Entrepreneur, London
+      Value: Debut Novelist, Phoenix
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "751f31a8-a549-48fa-81fa-adec9e819e40"
+      Value: "a2cc3968-ca38-4890-9440-94267b3a61af"
     - ID: "997e5f9c-d7b6-4704-9add-8e2ffcd15c2c"
       Hint: ReviewerName
-      Value: Ava L.
+      Value: Priya N.
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\isuru.bandara@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251121T111430Z
+      Value: 20260526T211631Z
 - Language: "es-ES"
   Versions:
   - Version: 1

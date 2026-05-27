@@ -33,11 +33,11 @@ Languages:
     - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
       Hint: PromoMoreInfo
       Value: |
-        <link linktype="external" url="" target="" text="More Info" title="" class=""/>
+        <link linktype="internal" id="11de8d97-8975-4999-b30d-930ffc3bba70" target="" text="How We Work" title="" anchor="" url="/industry-verticals/forma-lux/Home/About Us" class=""/>
     - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
       Hint: PromoDescription
       Value: |
-        <div class="ck-content"><p><meta charset="utf-8" /><span style="white-space:pre-wrap;">You don’t have to worry about the result because all of these interiors are made by people who are professionals in their fields with an elegant and luxurious style and with premium quality materials</span></p></div>
+        <div class="ck-content"><p>From manuscript to published book, AuthorHouse pairs you with a team of editors, designers, and publishing consultants who guide every step. Our process is built on partnership — you keep your voice and your rights; we bring the expertise and infrastructure that turn an idea into a book that reaches readers.</p></div>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -51,17 +51,17 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d57c1d2f-5231-43e1-8bb6-5b280508fff7"
+      Value: "c1234790-59b4-4559-a55a-91b1dfa6a6c9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T083553Z
+      Value: 20260526T205936Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
-      Value: We provide you  the best experience
+      Value: Publishing, with Expertise on Your Side
 - Language: "es-ES"
   Versions:
   - Version: 1

@@ -16,7 +16,7 @@ Languages:
       Value: 20250910T092534Z
     - ID: "4b87c00c-c58b-41a6-9e09-16610db8d8c5"
       Hint: ButtonText
-      Value: Subscribe
+      Value: Get the Free Guide
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -27,17 +27,20 @@ Languages:
         sitecore\ranula.gamage@sitecore.com
     - ID: "73961b41-7cfe-4909-9593-1a695e998e38"
       Hint: Title
-      Value: Subscribe to get attractive offers on our products
+      Value: "The Free Publishing Guide for First-Time Authors"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c122940b-3f51-42d4-8aa1-2ae989238546"
+      Value: "65f80185-6b01-4e3c-93a8-0610d2a29761"
+    - ID: "ad3b3717-d26f-4dfa-898f-5fd711343bfa"
+      Hint: HelperText
+      Value: Practical advice for authors at every stage — free, no spam.
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20250910T093959Z
+      Value: 20260526T211707Z
 - Language: "es-ES"
   Versions:
   - Version: 1

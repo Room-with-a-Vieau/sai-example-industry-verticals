@@ -7,10 +7,10 @@ BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
   Hint: TemplatesMapping
-  Value: "%7b98E60957-0783-4A9A-85CC-77DAD30E9711%7d%3d%257B933BF146-7771-4452-BB72-6EEF8C6A17A3%257D%26%7b412BF445-B1A6-4AFF-8054-0B21A1FEBC47%7d%3d%257B0F4983BF-8EE8-4888-916E-DB9C93D5FD72%257D%26%7bF6E44A9E-074A-4865-987E-0C2DC00B7AF5%7d%3d%257B933BF146-7771-4452-BB72-6EEF8C6A17A3%257D"
+  Value: "%7b98E60957-0783-4A9A-85CC-77DAD30E9711%7d%3d%257B933BF146-7771-4452-BB72-6EEF8C6A17A3%257D%26%7b412BF445-B1A6-4AFF-8054-0B21A1FEBC47%7d%3d%257B0F4983BF-8EE8-4888-916E-DB9C93D5FD72%257D"
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "fa1eccb2-884a-481d-a187-e48a479b4208"
+  Value: "f8a70269-4df0-4be2-91c9-78c868319ef3"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
@@ -32,11 +32,11 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0f0ad9db-2d27-42a2-9cc7-da8ea72ce481"
+      Value: "8e4f19a6-0152-4ff5-85fc-ce568a3d6a05"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\neli.kostadinova@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260526T151125Z
+      Value: 20260115T125359Z

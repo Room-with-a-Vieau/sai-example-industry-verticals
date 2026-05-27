@@ -36,7 +36,8 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: "Dining is more than meals—it’s shaping memories. Start with a table that suits your space: clean lines, durable material, room for expansion. Pair with chairs that are comfortable but defined—slim profiles, quality upholstery or shell material. Lighting should hover at 30-36” above the table for optimal ambiance. Add a rug to anchor the area and soften acoustics. For accessories: keep it minimal—a sculptural bowl, a simple runner, a piece of art—but meaningful. The goal: a modern dining space that says “come together” whether it’s family pizza night or dinner for six with friends."
+      Value: |
+        Most new authors underestimate editing because "editing" is really four distinct jobs done in sequence. This guide breaks down developmental editing, line editing, copyediting, and proofreading — what each one does, when it happens, and how to know which one your manuscript needs.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20251128T084006Z
@@ -50,7 +51,7 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p><span style="background-color:rgb(255,255,255);color:rgb(80,80,80);"><span style="-webkit-text-stroke-width:0px;display:inline !important;float:none;font-family:Manrope, sans-serif;font-size:18px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;">Dining is more than meals—it’s shaping memories. Start with a table that suits your space: clean lines, durable material, room for expansion. Pair with chairs that are comfortable but defined—slim profiles, quality upholstery or shell material. Lighting should hover at 30-36” above the table for optimal ambiance. Add a rug to anchor the area and soften acoustics. For accessories: keep it minimal—a sculptural bowl, a simple runner, a piece of art—but meaningful. The goal: a modern dining space that says “come together” whether it’s family pizza night or dinner for six with friends.</span></span></p></div>
+        <h3>What an editor actually does (and doesn't do)</h3><p>For new authors, "getting your book edited" can feel like one vague step. In practice, professional editing is a sequence of distinct passes, each with a specific purpose. Understanding the differences saves money, prevents disappointment, and produces a better book.</p><h3>Developmental editing: the big picture</h3><p>This is the deepest level of editorial work. A developmental editor evaluates the structure of your manuscript — plot pacing in fiction, argument flow in nonfiction — and recommends substantive changes: scenes that need to be added or cut, chapters that should be reordered, characters or arguments that need to be strengthened or removed. Think of it as architectural review, not copyediting. You'll typically rewrite significant portions of the manuscript based on developmental feedback.</p><h3>Line editing and copyediting: the prose layer</h3><p>Line editing focuses on the sentence-by-sentence quality of the writing — word choice, rhythm, clarity, voice. Copyediting is more technical: grammar, punctuation, consistency, style conformance. Some editors offer both together; others separate them. Both happen after developmental work is done, because there's no point polishing a sentence in a chapter you're about to delete.</p><h3>Proofreading: the final pass</h3><p>Proofreading happens after the manuscript has been typeset into final layout. The proofreader is looking for typos, formatting errors, and small inconsistencies that survived earlier editing rounds. This is the last line of defense before printing, and it's worth doing even if you've been through three rounds of edits already — typos have a way of surviving.</p><h3>How to know which edit you need</h3><p>If you've never had professional feedback on your manuscript, start with developmental editing or at minimum a manuscript critique. If structure is solid but the prose feels rough, you need a line edit. If you're confident in both structure and prose but the manuscript is ready for layout, you need a copyedit followed by a proofread. Skipping straight to proofreading because it's the cheapest option is the most common — and most expensive — mistake new authors make.</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -58,30 +59,29 @@ Languages:
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
       Value: |
-        Transform your dining area into a sleek, inviting stage for everyday and entertaining.
-        
+        Developmental editing, line editing, copyediting, proofreading: four different jobs that get conflated under the word "editing." Here's what each actually does — and which one your manuscript needs.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: "Dining is more than meals—it’s shaping memories. Start with a table that suits your space: clean lines, durable material, room for expansion. Pair with chairs that are comfortable but defined—slim profiles, quality upholstery or shell material. Lighting should hover at 30-36” above the table for optimal ambiance. Add a rug to anchor the area and soften acoustics. For accessories: keep it minimal—a sculptural bowl, a simple runner, a piece of art—but meaningful. The goal: a modern dining space that says “come together” whether it’s family pizza night or dinner for six with friends."
+      Value: A clear guide to the four types of editing in publishing — developmental, line editing, copyediting, and proofreading — and how to know which one your book needs.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5bdd12a0-a8cc-4419-bc05-11a1e3e80d08"
+      Value: "fa0e0a18-1b9d-4a14-8277-41bd32d6c3cd"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "Dining Design Done Right: Modern Furniture for the Heart of Your Home"
+      Value: "Editing Demystified: The Four Edits Every Manuscript Needs"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082512Z
+      Value: 20260526T195022Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Dining Design Done Right Modern Furniture for the Heart of Your Home
+      Value: "Editing Demystified: The Four Edits Every Manuscript Needs | AuthorHouse Resources"
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: modern dining space, dining room design tips, dining table ideas, clean lines dining table, durable dining furniture, expandable dining table, comfortable dining chairs, slim profile chairs, quality upholstery chairs, shell material chairs, dining lighting height, dining room ambiance, dining rug ideas, acoustic softening rug, minimal dining accessories, sculptural bowl decor, simple table runner, dining room art, modern dining decor, come together dining concept, family dining ideas, dinner party dining space
+      Value: "types of editing, developmental editing, line editing, copyediting, proofreading, manuscript editing, self-publishing editing"
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"

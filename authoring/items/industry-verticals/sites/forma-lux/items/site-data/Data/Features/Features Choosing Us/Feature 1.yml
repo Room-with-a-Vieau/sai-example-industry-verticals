@@ -27,7 +27,7 @@ Languages:
       Value: 20250904T102944Z
     - ID: "35b07fa2-ce95-4459-8dd6-074203dda9a7"
       Hint: FeatureDescription
-      Value: "The advantage of hiring a workspace with us is that gives you comfortable service and all-around facilities."
+      Value: Every AuthorHouse plan includes professional copyediting performed by experienced book editors who know the craft. Whether your manuscript needs light polish or comprehensive editorial guidance, our editors bring your story to its strongest version without losing your voice.
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -38,21 +38,21 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "5f507c84-84f9-4033-81a2-90bca3d12606"
       Hint: FeatureTitle
-      Value: Luxury Facilities
+      Value: Expert Editing
     - ID: "69536d16-4033-4ebf-9416-436f0f5a3cb6"
       Hint: FeatureLink
       Value: |
-        <link linktype="external" url="www.google.com" target="" text="More Info" title="" class=""/>
+        <link linktype="internal" id="cf38e606-54cd-4cd2-b1be-8cb1f6a042fa" target="" text="Learn More" title="" anchor="" url="/industry-verticals/forma-lux/Home/Services" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a7c2bcc4-7252-49f1-bf52-77c1b73c0a77"
+      Value: "bd1f50a5-6cc0-4ee0-9639-55bd0aed86b1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\sanduni.galagoda@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20251002T095600Z
+      Value: 20260526T205815Z
 - Language: "es-ES"
   Versions:
   - Version: 1

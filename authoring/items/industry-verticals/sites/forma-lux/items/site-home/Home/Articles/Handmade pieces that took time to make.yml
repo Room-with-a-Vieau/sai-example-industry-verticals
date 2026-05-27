@@ -71,7 +71,7 @@ Languages:
       Value: 
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: "At Forma Lux, time is a material in itself. Handmade Pieces That Took Time to Make reflects the art of slow creation—each piece shaped by deliberate rhythm and care. Iron, driftwood, and hand-thrown pottery coexist in perfect balance, forming interiors rich with authenticity and quiet luxury. The result is more than décor; it’s an experience of craft, patience, and permanence in an age of speed."
+      Value: Most book launches go quiet because authors treat launch day as the start instead of the midpoint. This guide walks through the 90 days before, during, and after a launch — what to build, what to schedule, and what actually moves the algorithm.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250917T090300Z
@@ -85,38 +85,36 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><figure class="image image_resized image-style-align-right" style="width:42.48%;"><img class="image_resized" style="aspect-ratio:520/282;" src="-/media/949C1CB9D30246B0AB197E5E2F4B611C.ashx" alt="pexels-vecislavas-popa-1571453 1" width="520" height="282" /></figure><h3>Statement Pieces That Spark Conversation</h3><p>A suspended iron light fixture draws the eye, hovering above a low-profile coffee table crafted from driftwood. Nearby, a sculptural bookshelf holds a curated mix of art, plants, and ceramics, offering both function and flair.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p><p>It is a well-thought-out layout that naturally guides the eye through the room. Every design element—whether structural or decorative—feels intentional, contributing to the room’s harmonious vibe. A neutral palette dominates, but touches of terracotta and navy add personality without overwhelming the senses. Artisanal details, like hand-thrown pottery and textured wall panels, infuse warmth and authenticity.</p></div>
+        <h3>Why most book launches go quiet</h3><p>The number-one reason a book launches without traction isn't poor writing or weak design — it's that the author waits until after publication to start marketing. By the time a book hits retail, the algorithms have already started forming opinions about its trajectory based on the first week of activity. If that activity is silence, the book has an uphill climb from day one.</p><h3>The 90 days before launch are the most important 90 days</h3><p>Treat the three months before launch as the runway. Use them to build an email list of interested readers, develop relationships with reviewers in your genre, line up podcast interviews and guest posts that drop near launch week, and tease pre-orders to your existing network. Pre-orders are particularly powerful: they consolidate week-one sales into a single "sales velocity" signal that retail algorithms reward heavily.</p><h3>Launch week tactics that move the needle</h3><p>On launch day, ask your email list and personal network to buy on the same day — not the same week. Concentrated buying creates a ranking spike that makes your book visible to readers who don't know you yet. Follow up with a steady drumbeat of content: an Amazon Author Page that's properly filled out, a Goodreads giveaway, a podcast tour, and a content series on whichever social platform you're already strongest on. Avoid the trap of trying to be everywhere; do two channels well rather than five poorly.</p><h3>The 90 days after launch matter, too</h3><p>Most books fade because the author treats launch week as the finish line. Reviews continue trickling in for weeks after launch, and each one is fuel for the algorithm. Keep the conversation going — follow-up emails to your list, guest posts that reference the book, paid promotion timed with sales — and you'll often see a second wind around the 60- to 90-day mark.</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in. Cursus mattis molestie a iaculis at erat. Nibh cras pulvinar mattis nunc sed blandit libero. Pellentesque elit ullamcorper dignissim cras tincidunt. Pharetra et ultrices neque ornare aenean euismod elementum.
-        
+      Value: The first week of sales sets the trajectory for your book's first year. Here's how to build the runway, launch with momentum, and keep going after the algorithms tune in.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Explore how patience and precision define Handmade Pieces That Took Time to Make. Forma Lux celebrates slow design—crafted furniture and home décor where every curve, texture, and finish reflects human touch.
+      Value: "A practical guide to book launch strategy: pre-launch runway, launch-week tactics, and the often-overlooked 90 days that come after."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78231e5b-be5b-4d6d-afbd-0dbb63283d64"
+      Value: "b9db91b9-53f1-4147-a43a-7a242a990976"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Handmade pieces that took time to make
+      Value: How to Launch a Book That Actually Reaches Readers
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\ranula.gamage@sitecore.com
+        sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260203T082512Z
+      Value: 20260526T194934Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Handmade Pieces That Took Time to Make | Forma Lux Journal – The Beauty of Patience in Design
+      Value: How to Launch a Book That Actually Reaches Readers | AuthorHouse Resources
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: handmade furniture, artisan craftsmanship, slow design, home decor, sustainable interiors, Forma Lux journal, timeless design, wood furniture
+      Value: "book launch, book marketing, pre-launch strategy, Amazon launch, book promotion, self-publishing marketing"
 - Language: "es-ES"
   Fields:
   - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
