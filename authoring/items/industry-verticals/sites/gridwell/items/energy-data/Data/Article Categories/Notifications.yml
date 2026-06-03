@@ -32,14 +32,14 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5f014217-319c-4a32-a6e1-eb1d34ecc48b"
+      Value: "8d24db69-1d85-441f-85b3-9c8108c161b3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T145820Z
+      Value: 20260205T090608Z
     - ID: "f9fd853f-2691-40b4-81d1-00ccf1a6cc06"
       Hint: Category
-      Value: Security & Fraud
+      Value: Notifications

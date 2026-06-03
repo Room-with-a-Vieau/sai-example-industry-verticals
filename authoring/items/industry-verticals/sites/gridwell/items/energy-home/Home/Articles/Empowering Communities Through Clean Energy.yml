@@ -38,7 +38,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Gridwell Financial partners with local organizations to expand access to modern payment tools, creating inclusive commerce solutions for entrepreneurs across Canada.
+      Value: Gridwell partners with local organizations to expand access to renewable power, creating sustainable, inclusive energy solutions for all.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095327Z
@@ -48,29 +48,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Gridwell Financial believes that the tools to run a great business should be available to every entrepreneur — not just those with deep pockets or established credit. That's why we partner with community organizations, small business associations, and nonprofits to bring affordable payment processing to merchants who have historically been underserved.</p><p>Through workshops, mentorship, and accessible pricing programs, we're helping new business owners get set up to accept payments, manage cash flow, and grow with confidence. Strong local economies aren't built by the biggest players alone — they're built by thousands of small merchants making it work, one transaction at a time. With every community partnership, Gridwell Financial is proving that powering commerce means powering people.</p></div>
+        <div class="ck-content"><p data-start="4420" data-end="4680">Gridwell believes clean energy should be for everyone—not just those who can afford to install panels or turbines. That’s why we’re working with local governments and nonprofits to bring renewable energy solutions to underserved communities.</p><p data-start="4682" data-end="5050">Through education, job training, and access to affordable solar programs, we’re helping families lower costs and create local opportunity. Sustainability shouldn’t be a privilege—it should be a shared pathway to a better, fairer future. With every community project, Gridwell is proving that green power can change more than just the environment—it can change lives.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: Commerce isn't just about transactions — it's about people. Discover how local programs and partnerships are helping underserved Canadian entrepreneurs access the tools they need to start and grow.
+      Value: Clean energy isn’t just about power—it’s about people. Discover how local renewable projects strengthen communities, create jobs, and improve energy access.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: Gridwell Financial partners with local organizations to expand access to modern payment tools, creating inclusive commerce solutions for entrepreneurs across Canada.
+      Value: Gridwell partners with local organizations to expand access to renewable power, creating sustainable, inclusive energy solutions for all.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be6d0fc2-be4a-4871-87b8-fc813c9a475e"
+      Value: "47ee12d9-e6f8-40c1-a3a8-2e9315173873"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Empowering Communities Through Accessible Commerce
+      Value: Empowering Communities Through Clean Energy
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T151257Z
+      Value: 20260205T090606Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Empowering Communities Through Accessible Commerce
+      Value: Empowering Communities Through Clean Energy
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: community commerce programs, accessible payment processing, small business equity, entrepreneur support programs
+      Value: community renewable energy, clean energy access, sustainability equity, renewable programs for communities

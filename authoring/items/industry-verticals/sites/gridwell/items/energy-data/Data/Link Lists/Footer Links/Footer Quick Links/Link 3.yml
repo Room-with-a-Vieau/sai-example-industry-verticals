@@ -31,14 +31,15 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
-      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'Developer Portal', 'title': '', 'url': '#'}"
+      Value: |
+        <link linktype="external" url="#" text="Project Status"/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28cd6932-a847-4a59-b7c1-56b30930b046"
+      Value: "a285061e-1003-46b8-b2cf-3d38033b5b06"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\jeral.sandeeptha@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T150054Z
+      Value: 20260113T123943Z

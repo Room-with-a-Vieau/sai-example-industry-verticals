@@ -36,14 +36,14 @@ Languages:
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
       Value: |
-        <link linktype="external" url="#" target="" text="Book" title="" class=""/>
+        <link linktype="external" url="#" target="" text="Book a Flight" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dbecc4ec-27e6-41bf-a84a-4abf248dce47"
+      Value: "71421a10-1d62-40c4-b32d-fd3f67538080"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\jeral.sandeeptha@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260504T211429Z
+      Value: 20251215T125913Z

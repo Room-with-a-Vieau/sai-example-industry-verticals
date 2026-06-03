@@ -7,7 +7,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BDCEF269-29D6-47B8-B3D1-CE3A6545A32E}" />
+    <image mediaid="{97835FBB-FA3E-46D1-9F58-5BD42358842B}" />
 Languages:
 - Language: en
   Versions:
@@ -42,14 +42,14 @@ Languages:
               p:after="r[@uid='{F453F956-B66A-4A39-8DAA-2C31546CD9A9}']"
               s:ds="local:/Data/Installation_Options"
               s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
-              s:par="DynamicPlaceholderId=3"
+              s:par="DynamicPlaceholderId=3&amp;Styles=%7B1687A84D-834A-4844-9F6F-28514E3F0B05%7D"
               s:ph="headless-main" />
             <r
               uid="{96517A30-9F40-4F45-AA66-DADE344B2797}"
               p:after="*[1=2]"
               s:ds="local:/Data/FAQ_Section"
               s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
-              s:par="DynamicPlaceholderId=4"
+              s:par="DynamicPlaceholderId=4&amp;Styles=%7B1687A84D-834A-4844-9F6F-28514E3F0B05%7D"
               s:ph="headless-main" />
           </d>
         </r>
@@ -78,17 +78,20 @@ Languages:
       Value: "Speed up service and free up your team with a self-ordering kiosk. Easy menu updates, automatic upsells, and 24/7 support."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e91a290b-6b44-4b92-9dac-93707887762f"
+      Value: "262423b2-1d52-4b41-aef4-cf97fafe9a65"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\andrew.vieau@sitecore.com
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20260531T235800Z
     - ID: "c97b8c3c-2801-4b14-9bf8-f11ec7ab1d11"
       Hint: Title
       Value: "Self-Ordering Kiosk"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260505T212705Z
+      Value: 20260526T160338Z
     - ID: "e5b1f5b3-a36d-4fd3-8df7-c9878ebfb6cf"
       Hint: pageSummary
       Value: "Self-ordering kiosk solution for restaurants to streamline orders and grow ticket size."

@@ -53,7 +53,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: Running an online store can mean hidden payment costs and missed conversions. This article explains how Canadian merchants can reduce fees, prevent fraud, and convert more shoppers through smarter ecommerce habits — from matching pricing plans to transaction volume, to enabling AVS, to offering the payment methods customers prefer.
+      Value: "Washing and drying clothes can consume significant amounts of electricity, especially during peak demand hours. This article explains how Texans can reduce energy use through smarter laundry habits—such as washing during off-peak hours, using cold water, maintaining appliances, and air-drying—helping keep the grid reliable while lowering household energy costs."
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095522Z
@@ -63,29 +63,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>Running an online store comes with hidden costs that can quietly eat into margins. Gridwell Financial works with thousands of Canadian ecommerce businesses, and a few patterns show up again and again — abandoned carts, fees that could be lower with the right plan, and chargebacks that better fraud tools could have prevented. Here are the smarter habits we see successful merchants adopt.</p><h5>1. Match Your Pricing Plan to Your Volume</h5><p>Flat-rate pricing is convenient when you're starting out, but as volume grows, interchange-plus pricing usually saves money. Review your plan annually as your business scales.</p><h5>2. Reduce Cart Abandonment with Saved Cards</h5><p>Customers who have to re-enter card details on every purchase are far more likely to abandon checkout. Tokenized card-on-file processing keeps repeat purchases fast and secure.</p><h5>3. Enable Address Verification (AVS) and CVV Checks</h5><p>Both are simple to turn on in your gateway settings and significantly reduce fraudulent transactions before they post.</p><h5>4. Right-Size Your Fulfillment</h5><p>Overselling stock you don't have triggers refunds, chargebacks, and unhappy customers. Real-time inventory sync between your in-store and online channels prevents most of it.</p><h5>5. Offer the Payment Methods Your Customers Want</h5><p>Interac Online, Apple Pay, Google Pay, and digital wallets convert better than card-only checkout for many Canadian shoppers. Adding them takes minutes.</p><h5>6. Upgrade Your Gateway When You Outgrow It</h5><p>Older gateways may not support modern features like 3D Secure 2, Strong Customer Authentication, or multi-currency. If your gateway is more than a few years old, an upgrade often pays for itself.</p><hr /><p><strong>Every transaction matters.</strong>&nbsp;<br />When Canadian businesses make smart choices about how they accept payments, the result is better margins, happier customers, and steadier growth.</p><p><em>Gridwell Financial: Powering smarter commerce for Canadian businesses.&nbsp;</em></p></div>
+        <div class="ck-content"><p>At the Gridwell, we know that Texans love fresh laundry—but your washer and dryer are some of the most energy-hungry appliances in the home. With just a few smart changes, you can keep your clothes clean <strong>and</strong> help keep the grid running smoothly. Here are some of our favorite “Smarter Laundry” tips:</p><h5>1. Wash During Off-Peak Hours</h5><p>Just like rush hour traffic, electricity demand surges at certain times of day. Running your washer and dryer in the early morning or late evening can reduce strain on the grid and may even lower your bill if you’re on a time-of-use plan.</p><h5>2. Switch to Cold Water</h5><p>Up to 90% of the energy used in washing clothes goes into heating water. Cold water cycles are gentler on fabrics and just as effective for most loads, while dramatically cutting energy use.</p><h5>3. Clean the Lint Filter</h5><p>A clogged lint screen makes your dryer work harder, using more energy and extending drying times. A quick swipe after each load keeps air flowing and efficiency high.</p><h5>4. Don’t Overload—Or Underload</h5><p>Stuffing the washer full means clothes won’t clean properly, while running tiny loads wastes water and energy. Aim for a “happy medium” with balanced loads.</p><h5>5. Hang Dry When Possible</h5><p>Texas sunshine is one of the most powerful (and free!) drying tools around. Even air-drying just a portion of your laundry—like towels or delicates—reduces dryer time and energy demand.</p><h5>6. Upgrade to ENERGY STAR® Appliances</h5><p>Modern, high-efficiency washers and dryers can use 25–45% less energy than older models. If your laundry set is more than a decade old, upgrading could pay for itself in savings.</p><hr /><p><strong>Every load makes a difference.</strong>&nbsp;<br />When households across Texas make small changes in how and when they run laundry, it helps keep energy affordable, reliable, and sustainable for everyone.</p><p><em>Gridwell: Powering smart choices for a stronger Texas.&nbsp;</em></p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: At Gridwell Financial, we work with thousands of online stores — and the most successful ones share a few common habits. With small adjustments to pricing, security settings, and checkout flow, ecommerce merchants can lower costs, reduce fraud, and convert more shoppers.
+      Value: "At Gridwell, we know that Texans love fresh laundry—but your washer and dryer are some of the most energy-hungry appliances in the home. With just a few smart changes, you can keep your clothes clean and help keep the grid running smoothly"
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: "Online stores have plenty of room to optimize payments. This article shares practical, easy-to-follow ecommerce tips from Gridwell Financial to help Canadian merchants reduce fees, prevent fraud, and convert more customers."
+      Value: "Laundry appliances are among the most energy-intensive in the home, but small changes can make a big difference. This article shares practical, easy-to-follow laundry tips from Gridwell to help Texans reduce energy use, save money, and support grid reliability."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fa2847e1-bd04-470c-a823-0fa4c1364eaa"
+      Value: "3cdec171-8209-4d69-bc8d-8a77e6849a51"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Smarter Ecommerce Payment Tips
+      Value: Smarter Laundry Energy Tips
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T151126Z
+      Value: 20260205T090607Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Smarter Ecommerce Payment Tips
+      Value: Smarter Laundry Energy Tips
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: ecommerce payment tips, online store optimization, payment gateway tips, fraud prevention, Gridwell Financial, conversion tips
+      Value: "laundry energy tips, reduce energy use, washer dryer efficiency, off-peak energy, Gridwell energy tips, home energy savings"

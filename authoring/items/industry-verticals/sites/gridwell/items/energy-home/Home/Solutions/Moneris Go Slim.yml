@@ -7,7 +7,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3DAF798F-0ABC-4FDF-8461-0DF627F5D2F8}" />
+    <image mediaid="{F7E69402-06B5-4A78-9038-128487CFB57F}" />
 Languages:
 - Language: en
   Versions:
@@ -33,6 +33,22 @@ Languages:
               <rls>
                 <ruleset
                   s:pet="true">
+                  <rule
+                    uid="{CD7AD520-24C8-4F05-B75F-5311D4E973FA}"
+                    s:name="32986a9b628d472aa1e553a0d501f784_c88dbb1144fb4b14bfa9961438d5e9ab">
+                    <conditions>
+                      <condition
+                        uid="D5349F3ECD2340AFAEAA3E58A5D975F5"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="32986a9b628d472aa1e553a0d501f784_c88dbb1144fb4b14bfa9961438d5e9ab" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{C74F4A09-1CBF-46BB-BA81-D2AA677C784A}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="83b52e40-efbe-4d43-ba9a-a1ed2c0a6cdc" />
+                    </actions>
+                  </rule>
                   <rule
                     uid="{20CB8C6B-6E80-48F1-AD80-1DBF53B2C8B3}"
                     s:name="32986a9b628d472aa1e553a0d501f784_1178966ad25a4517908c0e5f2227bd6c">
@@ -86,7 +102,7 @@ Languages:
         sitecore\andrew.vieau@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "85609089-b00a-4457-9c78-e3cde2effa48"
+      Value: "cc5b787f-6779-4d99-b8a1-06edaeca89bd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -96,4 +112,4 @@ Languages:
       Value: Moneris Go Slim
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260505T211954Z
+      Value: 20260526T161036Z

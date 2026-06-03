@@ -94,10 +94,41 @@ Languages:
             <r
               uid="{4EE4253B-97B0-4A72-AAA6-28288026E4F5}"
               p:after="r[@uid='{F76EF556-94B4-4F85-B9DA-E8B7D189F2D5}']"
-              s:ds="8ea2fff9-42c4-46e2-ac66-7a1573bcfb50"
+              s:ds="0bb7e58c-f184-49d0-8c5e-8174499a4ffa"
               s:id="{B49CF2D7-7CB2-4918-8F38-2607D956D995}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
-              s:ph="headless-main" />
+              s:ph="headless-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{616D0731-AAE4-49BF-B59A-BE42329CD204}"
+                    s:name="52a8c02cdf43482999a6dd48f3d23249">
+                    <conditions>
+                      <condition
+                        uid="C50C552871E345A0BCB50B7D922460A4"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="52a8c02cdf43482999a6dd48f3d23249" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{CCF908F6-4919-47FB-90DA-68A365ADF156}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="bbf87b1d-de20-44cd-a668-65bd49f1d252" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="67F16C22B3B44758AD1EA0A8BF45245B"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
           </d>
         </r>
     - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
@@ -125,7 +156,7 @@ Languages:
       Value: "Gridwell Financial powers Canadian commerce with payment processing, point-of-sale solutions, online checkout, and ecommerce tools for businesses of every size. Accept payments in-store, online, or on the go."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "23f79601-9bc5-413c-9bd7-8693f84355b1"
+      Value: "0609875c-947b-4e41-91a3-8d64c24a397b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -135,4 +166,4 @@ Languages:
       Value: "Gridwell Financial is a Canadian payment processor offering unified commerce solutions for in-store, online, and mobile businesses. From wireless POS terminals to ecommerce platforms, Gridwell Financial helps businesses across Canada accept payments confidently and grow with data-driven insights and 24/7 local support."
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260521T213643Z
+      Value: 20260526T162306Z

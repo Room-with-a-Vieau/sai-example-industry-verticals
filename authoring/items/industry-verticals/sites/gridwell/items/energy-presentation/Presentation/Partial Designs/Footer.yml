@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{FAE01ED2-7831-4D0E-85C6-8233EE94C8D1}" />
+    <image mediaid="{676A157B-47E4-49F2-A106-7DB5406B4ECA}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
   Value: "50e5dd64-b5bf-4af8-b425-303bbcc82885"
@@ -79,11 +79,11 @@ Languages:
         sitecore\neli.kostadinova@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "45aeafd3-178d-447a-a21c-2b1e492221e0"
+      Value: "f643a4d5-0aa4-4082-933b-e11735e5c7f5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T150132Z
+      Value: 20260205T090609Z

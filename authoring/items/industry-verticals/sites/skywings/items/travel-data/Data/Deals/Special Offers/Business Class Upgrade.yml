@@ -34,10 +34,10 @@ Languages:
         sitecore\sanduni.galagoda@sitecore.com
     - ID: "6495e4a8-178b-4ae5-a8b1-237c4f36aa6f"
       Hint: DealDescription
-      Value: Complimentary upgrade with select dates
+      Value: Complimentary upgrade with any booking
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "97279e3f-07cb-49f1-ac62-e32bee0667b0"
+      Value: "546a4f31-e619-4e88-b7b8-5785145a28df"
     - ID: "98301352-efe7-4081-8621-b071909afbfd"
       Hint: DealCtaLink
       Value: |
@@ -48,10 +48,10 @@ Languages:
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\jeral.sandeeptha@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260504T190301Z
+      Value: 20251219T170111Z
     - ID: "eb6a0572-6994-474e-a1be-a7728a551346"
       Hint: DealTitle
-      Value: Business Upgrade
+      Value: Business Class Upgrade

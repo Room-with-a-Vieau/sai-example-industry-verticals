@@ -7,10 +7,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <image mediaid="6d3daec9-e062-42c6-a7e5-09282d876865" alt="A slim, modern device illustration" />
+    <image mediaid="89ceb6b0-cdad-4d17-b32e-4bee870cc9f6" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "efb8f4a2-990a-481a-ba24-33900ce117b6"
+  Value: "8f0c0931-a146-45dd-bb30-ff6a6c7091e7"
 Languages:
 - Language: en
   Versions:
@@ -43,14 +43,14 @@ Languages:
       Value: Moneris Go Slim
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "10196d56-3426-4f51-b19d-57fd8e938e66"
+      Value: "efa36eab-7bc1-4b72-a9e3-2538962e030a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260521T214212Z
+      Value: 20260526T151519Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: Moneris Go Slim puts your enterprise in your hand. 

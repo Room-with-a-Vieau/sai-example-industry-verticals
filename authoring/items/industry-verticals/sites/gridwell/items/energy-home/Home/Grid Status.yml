@@ -57,32 +57,32 @@ Languages:
       Value: <r />
     - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
       Hint: metadataKeywords
-      Value: Gridwell Financial products, POS terminals, payment gateway, online payments, ecommerce platform, tap to pay
+      Value: grid status, power grid conditions, electricity demand, grid reliability, Texas grid, Gridwell dashboard
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260112T111314Z
     - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
       Hint: metadataTitle
-      Value: Products | Gridwell Financial
+      Value: Current Grid Status & Conditions | Gridwell
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: Products
+      Value: Grid Status
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
-      Value: Products
+      Value: Grid Status
     - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
       Hint: metadataDescription
-      Value: Explore Gridwell Financial's full lineup of payment products, including POS terminals, online checkout, mobile payments, and ecommerce platforms.
+      Value: "View the current status of the Texas power grid, including demand levels, supply conditions, and reliability indicators. Gridwell provides real-time visibility into grid conditions so Texans can stay informed and take action when needed."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dd473326-42a4-4c38-86dc-a1d29dbe2298"
+      Value: "eb2cd00b-333b-4fb2-8b36-f518d50a6840"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\jeral.sandeeptha@sitecore.com
     - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
       Hint: pageSummary
-      Value: Browse Gridwell Financial's product lineup, from wireless POS terminals to ecommerce platforms and mobile payment solutions designed for businesses of every size.
+      Value: "The Grid Status page provides real-time insight into electricity demand, supply, and overall system conditions. By offering clear, up-to-date information, Gridwell helps Texans understand grid health and respond appropriately during periods of high demand."
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T150452Z
+      Value: 20260206T093332Z

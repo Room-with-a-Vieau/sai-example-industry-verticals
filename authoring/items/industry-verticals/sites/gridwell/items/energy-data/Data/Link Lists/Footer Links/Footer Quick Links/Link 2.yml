@@ -31,14 +31,15 @@ Languages:
         sitecore\jeral.sandeeptha@sitecore.com
     - ID: "68c2a603-f98e-42a3-be2d-dd70598c2a63"
       Hint: Link
-      Value: "{'class': '', 'href': 'http://#', 'linktype': 'external', 'target': '', 'text': 'System Status', 'title': '', 'url': '#'}"
+      Value: |
+        <link linktype="external" url="#" text="Operations Messages"/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5db6e18a-e368-4edc-9fa3-2b5741ad3568"
+      Value: "bb4d34ab-fde2-4a7d-900e-ecac45d0e6c1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\jeral.sandeeptha@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T150033Z
+      Value: 20260113T123934Z

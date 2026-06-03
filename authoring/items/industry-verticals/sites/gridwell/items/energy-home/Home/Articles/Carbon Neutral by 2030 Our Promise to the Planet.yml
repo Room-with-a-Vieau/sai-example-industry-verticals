@@ -38,7 +38,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: "Gridwell Financial is working toward fully paperless, cloud-native operations by 2030 through a combination of digital receipts, cloud POS adoption, and energy-efficient data centers. This article explains how Gridwell Financial is reducing waste, investing in modern infrastructure, and helping Canadian merchants do the same."
+      Value: "Gridwell is working toward carbon neutrality by 2030 through a combination of renewable energy generation, energy-efficient operations, and partnerships focused on sustainability. This article explains how Gridwell is reducing emissions, investing in clean technology, and leading the transition toward a more sustainable and reliable power grid for future generations."
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095309Z
@@ -48,29 +48,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>At Gridwell Financial, we're not waiting for the future of commerce — we're building it. Our goal is to be a fully cloud-native, paperless payments company by 2030, eliminating physical receipts, paper statements, and on-premise infrastructure across our entire merchant network.</p><p>This commitment is more than a target; it's a reflection of how we believe modern commerce should work. We're investing in cloud-based POS systems, digital receipt delivery, and energy-efficient data centers, while helping our merchants do the same. Every step we take reduces friction for business owners, lowers costs for customers, and proves that sustainable operations and great commerce go hand in hand.</p></div>
+        <div class="ck-content"><p>At Gridwell, we’re not waiting for change—we’re making it happen. Our goal is to achieve full carbon neutrality by 2030 through a combination of renewable energy generation, carbon capture innovation, and energy-efficient operations.</p><p>This commitment is more than a target; it’s a reflection of our values. We’re partnering with local suppliers who share our vision, investing in next-generation clean tech, and helping customers reduce emissions through smarter energy use. Every milestone brings us closer to a world powered entirely by sustainable energy—and we’re proud to lead that journey.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: "Gridwell Financial unveils its strategic plan to become fully paperless and cloud-native by 2030, focusing on digital receipts, cloud POS, and sustainable infrastructure investments."
+      Value: Gridwell unveils its strategic plan to achieve carbon neutrality by 2030, emphasizing pivotal initiatives, investments in renewable resources, and enduring commitments to environmental sustainability.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: "Gridwell Financial is committed to becoming fully paperless and cloud-native by 2030 through digital receipts, cloud-based POS systems, and energy-efficient infrastructure. This article outlines our long-term vision and the technologies driving the change."
+      Value: "Gridwell is committed to achieving carbon neutrality by 2030 through renewable energy innovation, smart grid operations, and sustainable partnerships. This article outlines Gridwell’s long-term vision, the technologies driving change, and how operational excellence supports a cleaner, more resilient energy future."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bd541022-1540-45a7-ada1-57f28a71549c"
+      Value: "10a06c77-fb79-4aa0-a24b-53c0b8f3e1df"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: "Paperless by 2030: Our Promise to Sustainable Commerce"
+      Value: Carbon Neutral by 2030 Our Promise to the Planet
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T151320Z
+      Value: 20260205T090606Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Gridwell Financial's Path to Paperless Commerce by 2030
+      Value: Gridwell’s Path to Carbon Neutrality by 2030
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: Gridwell Financial sustainability, paperless commerce, cloud POS, digital receipts, sustainable payments, green fintech, modern payment infrastructure
+      Value: Gridwell sustainability, carbon neutral grid, renewable energy innovation, clean energy operations, carbon reduction, sustainable energy, grid modernization

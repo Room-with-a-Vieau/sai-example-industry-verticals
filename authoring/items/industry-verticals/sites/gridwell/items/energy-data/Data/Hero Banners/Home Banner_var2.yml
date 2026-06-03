@@ -36,10 +36,11 @@ Languages:
         sitecore\tharuka.bandara@sitecore.com
     - ID: "84a164f4-8b3e-45e1-a4ca-fa4c0de72666"
       Hint: SecondaryCtaLink
-      Value: "{'href': 'http://#', 'linktype': 'external', 'url': '#', 'target': '', 'text': 'Talk to Sales', 'title': '', 'class': ''}"
+      Value: |
+        <link linktype="external" url="#" target="" text="Explore Options" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3b039dd0-8943-4b25-8235-1545ea39cbc4"
+      Value: "9f5cd8be-0479-4ab9-ab34-89ff70554692"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
       Value: Commerce Made Simple
@@ -49,7 +50,8 @@ Languages:
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260507T014816Z
+      Value: 20260526T151953Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
-      Value: "{'linktype': 'internal', 'id': 'b13e8079-034f-48a5-9b12-9b28f64e1224', 'anchor': '', 'querystring': '', 'target': '', 'class': '', 'text': 'Explore Products', 'title': '', 'href': '/Grid-Status'}"
+      Value: |
+        <link linktype="external" url="#" target="" text="Learn More" title="" class=""/>

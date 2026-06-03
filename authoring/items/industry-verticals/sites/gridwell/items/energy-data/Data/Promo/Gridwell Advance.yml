@@ -7,10 +7,10 @@ SharedFields:
 - ID: "b441a09f-ddb2-41a8-84cc-2533686541f4"
   Hint: PromoImageOne
   Value: |
-    <image mediaid="3e1795eb-9d51-41d2-9e53-cafae5a70fe7" alt="Mobile phone in hand" />
+    <image mediaid="ae98bb6b-5bac-4ccb-9ce3-cac00fd1e888" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "84a56625-21d6-496b-bea5-ca6e69da466d"
+  Value: "196abece-9899-4267-8e1e-06297a3c9191"
 Languages:
 - Language: en
   Versions:
@@ -43,14 +43,14 @@ Languages:
       Value: Gridwell Advance
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e060162f-727f-4cad-853c-cbe4c86ee1ff"
+      Value: "9d593db4-2d93-422f-896d-4b0798acbe03"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260521T214329Z
+      Value: 20260526T151730Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
       Value: Get the funding to take your business to the next level.

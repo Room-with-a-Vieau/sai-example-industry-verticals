@@ -53,7 +53,7 @@ Languages:
       Value: <r />
     - ID: "17b75967-9b67-4eb9-bb35-bbe0228ca368"
       Hint: pageSummary
-      Value: The Gridwell Fraud Alert System is the early advisory tool designed to inform merchants when transactions show unusual activity. This article explains what fraud alerts are, how they differ from chargebacks, and how subscribing helps businesses respond early, prevent losses, and maintain a smooth customer experience.
+      Value: TXANS is Gridwell’s early advisory alert system designed to inform Texans when the power grid may experience stress. This article explains what TXANS alerts are, how they differ from Energy Emergency Alerts, and how subscribing helps households prepare early, conserve energy, and reduce pressure on the grid before conditions become critical.
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20260126T095551Z
@@ -63,29 +63,29 @@ Languages:
     - ID: "56a52337-177b-46b4-ae72-6b9083bb6700"
       Hint: Content
       Value: |
-        <div class="ck-content"><p>The Gridwell Financial Fraud Alert System provides early awareness of potentially suspicious transaction activity. Unlike chargebacks, which are triggered after a disputed transaction has already settled, fraud alerts serve as an advisory. They give merchants the knowledge they need to verify a transaction before it becomes a costly dispute.</p><p>By subscribing to fraud alerts, merchants receive timely updates directly to their phone or email. These updates might include unusual purchase patterns, transactions from high-risk regions, or velocity warnings when several transactions occur in quick succession. This early notification helps businesses take action before a chargeback is filed.</p><p>Understanding fraud alerts is an essential step in protecting your business. When merchants know how to respond to an alert, they are better equipped to confirm legitimate transactions, refund suspicious ones, and avoid losses. It also helps reduce false declines and gives customers the smooth checkout experience they expect.</p></div>
+        <div class="ck-content"><p>The Texas Advisory Notification System (TXANS) provides early awareness of potential grid stress conditions. Unlike Energy Emergency Alerts (EEAs), which are triggered only when the grid is already in critical need of conservation, TXANS serves as an advisory. It’s Gridwell’s way of preparing Texans ahead of time, giving them the knowledge they need to conserve energy and reduce stress on the grid.</p><p>By subscribing to TXANS alerts, residents receive timely updates directly to their phone or email. These updates might include conservation suggestions, grid condition summaries, or information about potential stress periods coming in the next few days. This early notification ensures that families can take voluntary action before the situation becomes urgent.</p><p>Understanding TXANS is an essential step in building confidence and trust in Gridwell’s communication. When Texans know the difference between TXANS and EEA alerts, they are better equipped to respond calmly and effectively. It also helps reduce misinformation and allows communities to feel reassured that their grid operator is being transparent and proactive.</p></div>
     - ID: "62c99938-d40e-4878-ab77-3464abd79fd5"
       Hint: ShortDescription
-      Value: The Gridwell Fraud Alert System is designed to keep merchants informed when their transactions show signs of unusual activity. While not every alert means fraud has occurred, it gives businesses the chance to respond early. Many merchants still don't know how alerts fit into Gridwell Financial's security process, which leads to unnecessary confusion. This article explains what fraud alerts are, how they differ from chargebacks, and why subscribing is so important.
+      Value: The Texas Advisory Notification System, or TXANS, is designed to keep Texans informed when the power grid could be under stress. While it is not a direct signal of an emergency, it gives households the chance to prepare early. Many residents still don’t know how TXANS fits into Gridwell’s communication process, which leads to unnecessary confusion during peak weather conditions. This article explains what TXANS is, how it differs from other alerts, and why subscribing is so important.
     - ID: "7a52d039-c368-46c1-b93d-5cbd5b802f73"
       Hint: metadataDescription
-      Value: The Gridwell Fraud Alert System helps merchants spot suspicious activity before it becomes a chargeback. This article explains how alerts work, how they differ from chargebacks, and why early awareness is critical to protecting your business.
+      Value: The Texas Advisory Notification System (TXANS) helps Texans prepare for potential grid stress before an emergency occurs. This article explains how TXANS works, how it differs from Energy Emergency Alerts, and why early awareness and voluntary conservation play a critical role in grid reliability.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3c99f570-a759-4f25-b4b5-851f7697726e"
+      Value: "9a573c70-34fd-4fa5-999d-f52e919891f5"
     - ID: "9c8beb3d-e162-4540-bb7d-9504db078f44"
       Hint: Title
-      Value: Understanding the Gridwell Fraud Alert System
+      Value: Understanding the TXANS Alert System
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260502T150548Z
+      Value: 20260205T090607Z
     - ID: "e4df8bb9-c0d9-475d-92b4-dcb526bd6b38"
       Hint: metadataTitle
-      Value: Understanding the Gridwell Fraud Alert System
+      Value: Understanding the TXANS Alert System
     - ID: "f04feaa2-f9a4-4030-907d-18fc3b18b0f4"
       Hint: metadataKeywords
-      Value: Gridwell Fraud Alert System, fraud alerts, chargeback prevention, merchant fraud protection, payment security, transaction monitoring
+      Value: TXANS, Texas Advisory Notification System, Gridwell alerts, energy notifications, grid advisory alerts, energy conservation, grid reliability
