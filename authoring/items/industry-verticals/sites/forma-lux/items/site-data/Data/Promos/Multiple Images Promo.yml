@@ -33,11 +33,11 @@ Languages:
     - ID: "453ed40c-5232-4e90-b023-7a3cee2bcfe8"
       Hint: PromoMoreInfo
       Value: |
-        <link linktype="internal" id="a247bd3c-53cc-44c2-b7b3-a7cf418097ef" target="" text="See Plans & Savings" title="" anchor="" url="/industry-verticals/forma-lux/Home/Furniture" class=""/>
+        <link linktype="external" url="" target="" text="More Info" title="" class=""/>
     - ID: "4fc0c7b3-bcfb-4a9d-834d-59f6836e5fd6"
       Hint: PromoDescription
       Value: |
-        <div class="ck-content"><p>Save up to 25% on every plan with our new pricing — the best value AuthorHouse has ever offered, with the same expert editorial, design, and marketing services authors have trusted for more than 25 years.</p></div>
+        <div class="ck-content"><p><meta charset="utf-8" /><span style="white-space:pre-wrap;">We stand behind every item we sell — with premium materials, exceptional comfort, and a satisfaction guarantee you can trust.</span></p></div>
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -48,20 +48,20 @@ Languages:
         sitecore\isuru.bandara@sitecore.com
     - ID: "79332b7d-ea7f-47d7-a9c2-bfaae4806296"
       Hint: PromoSubTitle
-      Value: 
+      Value: Materials
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ad2b2f56-777b-45f5-a0d3-9d6af70a2f27"
+      Value: "0fb9d78e-1dd1-443f-9466-f3acd543848c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260526T211512Z
+      Value: 20260203T082515Z
     - ID: "f7e3056b-5e6e-4080-b2b7-84f76b2052fc"
       Hint: PromoTitle
-      Value: New Plans. Better Value.
+      Value: Our Promise  to furniture 
 - Language: "es-ES"
   Versions:
   - Version: 1

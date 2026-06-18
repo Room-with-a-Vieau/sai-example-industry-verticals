@@ -7,13 +7,13 @@ SharedFields:
 - ID: "00b71f70-411d-4ea1-a423-74ed20b60157"
   Hint: Image
   Value: |
-    <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/dd145e888d304e39817304f66b3a63e3?v=e5bb2c96" dam-id="SCgtuRczTe62TfoX9UnSAw" width="1536" height="1024" alt="Rectangle 1441.png" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/67095/thumbnail" />
+    <image mediaid="06ee6e21-63e5-4bb8-95de-b1275fd80bc9" alt="An image of books, glasses, and a jar on a shelf" />
 - ID: "d74790ee-7289-4a66-b921-71da75df6cde"
   Hint: Video
   Value: 
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "f7af10b3-f772-4ac1-87ef-e8b6a51e5bd3"
+  Value: "ea18bf26-8e3a-4aaf-b634-4d60231b9193"
 Languages:
 - Language: en
   Versions:
@@ -25,7 +25,7 @@ Languages:
     - ID: "1dec177a-1a9b-41cf-a60c-d89f28fa41e8"
       Hint: Description
       Value: |
-        <div class="ck-content"><p>Bring your book to life with the support of the world's leading supported self-publishing partner. New plans. Better value. Save up to 25%.</p></div>
+        <div class="ck-content"><p>New plans. Better value. Save up to 25%.</p></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250904T165442Z
@@ -39,7 +39,7 @@ Languages:
         sitecore\movin.tilakaratne@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bdc088f9-1987-4f1b-921d-4057c9f9dcb1"
+      Value: "4361cb0c-a41a-43d7-b32e-954be6b89f0e"
     - ID: "985b877b-bfee-473e-aada-0a9f156dfecc"
       Hint: Title
       Value: All New Publishing Plans, Built From Decades of Experience
@@ -49,7 +49,7 @@ Languages:
         sitecore\andrew.vieau@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260526T205739Z
+      Value: 20260527T151109Z
     - ID: "e3c72e5d-cbf1-4af8-8a73-dc4d3c8590f3"
       Hint: CtaLink
       Value: |

@@ -150,7 +150,54 @@ Languages:
             <r
               uid="{AE225B7C-0876-4FAE-A959-B3AFC8E0E91B}"
               s:ds="74d300f5-9719-4de7-8cad-4000fb927aed"
-              s:par="FieldNames=%7B96409BF2-9023-4CE1-8EF3-AA01ED5D1F3A%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B8562F7F8-721A-4C82-B884-AAF58B44C6B6%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0" />
+              s:par="FieldNames=%7B96409BF2-9023-4CE1-8EF3-AA01ED5D1F3A%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B8562F7F8-721A-4C82-B884-AAF58B44C6B6%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1&amp;HideGradientOverlay=0&amp;HideAccentLine=0&amp;WithPlaceholder=0&amp;ReverseLayout=0">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{A2DEC348-6198-487B-80B7-4CA0F81DCB26}"
+                    s:name="21e1878eeaad4264bd6da15a39310ab2">
+                    <conditions>
+                      <condition
+                        uid="6305DA400AD845A3959133C66E92896D"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="21e1878eeaad4264bd6da15a39310ab2" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{A06CBD05-469A-490F-97A5-2933FA4FC22E}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="7f0d8efc-14c5-43b6-81a2-7f2736d54605" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{D8E52C2D-8644-4016-9A64-8D9849E0A39B}"
+                    s:name="b0081f2428fd4b088f4250da6df7f685">
+                    <conditions>
+                      <condition
+                        uid="6A91FE939B154F4A8474F0BCF9801DF6"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="b0081f2428fd4b088f4250da6df7f685" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{72F1F800-C3D7-446A-9D3F-E94BCA3363C9}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="7f0d8efc-14c5-43b6-81a2-7f2736d54605" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="2343B36A104D4472A01BB1C4755A207D"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{D208AC42-DFB1-49D3-87F4-DDF7006DAA69}"
               s:par="FieldNames=%7BA83A4134-EBAE-4CF9-9648-68D54EBAF239%7D&amp;RenderingIdentifier&amp;Styles=%7C%7B00AE1E2D-24DF-476E-AC36-5BD62A6B44A5%7D&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=11&amp;CurvedTop&amp;HideShapes=0&amp;Reversed=0&amp;ShowMultipleImages=0&amp;HideQuote=0&amp;HideCurveLine=1&amp;HideShadows=0&amp;CurvedBottom" />
@@ -187,7 +234,7 @@ Languages:
       Value: "AuthorHouse: the world leader in supported self-publishing. We've helped more than 70,000 authors publish more than 96,000 books across 200 genres."
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "131b790e-9b34-492b-b542-3c307768b6ec"
+      Value: "7e95cb5f-5b93-4faa-9911-5cb0c8944bde"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -197,7 +244,7 @@ Languages:
       Value: "For more than 25 years, AuthorHouse has helped authors bring their books to life with professional publishing plans, expert editing, research-driven insights, and personalized marketing support."
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260526T204030Z
+      Value: 20260527T174358Z
 - Language: "es-ES"
   Versions:
   - Version: 2

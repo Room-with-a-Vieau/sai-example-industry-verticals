@@ -13,14 +13,14 @@ SharedFields:
     <Image src="https://starter-verticals-2.sitecoresandbox.cloud/api/public/content/76689-HomepagePromoCTAs-1100x740?v=7481d3c5" dam-id="keGpD7ZjQ_Ckp2D9ObeltQ" width="1100" height="740" alt="about-us-meta.jpg" dam-content-type="Image" thumbnailsrc="https://starter-verticals-2.sitecoresandbox.cloud/api/gateway/76689/thumbnail" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 600
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
     <image mediaid="{0B081450-C058-43DA-9F4C-A6083D93066D}" />
 - ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
   Hint: __Shared revision
-  Value: "d325676d-c709-4bc0-ad90-e6bfec88f93d"
+  Value: "4f3a9dae-abed-4399-947a-930aa30ddf40"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -94,38 +94,38 @@ Languages:
       Value: 
     - ID: "13fe722e-a8c7-4432-a983-23fb28ffab05"
       Hint: metadataKeywords
-      Value: "AuthorHouse about, self-publishing leader, author services company, supported self-publishing history"
+      Value: Forma Lux story, luxury furniture brand, craftsmanship heritage, sustainable materials
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20250821T102854Z
     - ID: "32c603c2-c858-4138-8fcb-8e18a5ad8240"
       Hint: metadataTitle
-      Value: "About AuthorHouse — 25+ Years of Supported Self-Publishing"
+      Value: About Forma Lux – Heritage & Modern Craftsmanship
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: About us
     - ID: "4ff91248-33ab-4254-b6f7-2618fd0aebae"
       Hint: Title
-      Value: Bringing Stories to Life for More Than 25 Years
+      Value: Shaping Spaces with Soul and Substance
     - ID: "581d7a02-ce94-4a73-9add-258867a8b60f"
       Hint: Content
-      Value: "<p>AuthorHouse is the leading provider of supported self-publishing services for authors worldwide. Since 1997, we've helped more than 70,000 authors publish more than 96,000 titles across 200 genres, with books reaching readers through every major retailer and library system.</p><p>Our approach is built on partnership. Publishing shouldn't feel like guesswork — it should feel like collaboration. We pair every author with a team of editors, designers, and marketing specialists who guide the book from manuscript to launch and beyond. Whether you're writing a memoir for family, a thought-leadership book for your career, or a debut novel you've been imagining for years, we provide the expertise and infrastructure to bring it into the world.</p><p>What sets AuthorHouse apart is what's built into every plan: research-driven retail-readiness work, professional copyediting, a personalized marketing roadmap, distribution to major bookstores and online retailers worldwide, and full access to our Author Learning Center. Publishing isn't one-size-fits-all, but excellence is the foundation we never compromise on.</p>"
+      Value: "<p>At Forma Lux, we blend timeless design with modern expression to create interiors that reflect individuality and elegance. Guided by a passion for curated living, we design furnishings that go beyond trend — crafted for those who live boldly and style deeply. Our philosophy is rooted in balance: between form and function, subtlety and statement, simplicity and richness.</p>"
     - ID: "6b43d550-6d5f-46ce-ac84-3d9493c45bc6"
       Hint: metadataDescription
-      Value: "Learn how AuthorHouse has helped more than 70,000 authors publish their books across 25+ years of supported self-publishing leadership."
+      Value: Learn how Forma Lux blends artisan craftsmanship, premium materials and modern design philosophy to create timeless furniture.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9290939c-f120-473a-8ff1-a71ffc53489b"
+      Value: "494547e9-e2cd-434d-a50b-43b5acf51656"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\andrew.vieau@sitecore.com
+        sitecore\ranula.gamage@sitecore.com
     - ID: "d3886445-9ee0-46a0-ae5e-8857dd6b395f"
       Hint: pageSummary
-      Value: "Our story, our expertise, and what 25+ years of supported self-publishing means for the authors we work with."
+      Value: Our heritage, materials, and design ethos—Forma Lux is where tradition meets modernity for pieces that last.
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20260526T201647Z
+      Value: 20260203T082512Z
 - Language: "es-ES"
   Versions:
   - Version: 1
